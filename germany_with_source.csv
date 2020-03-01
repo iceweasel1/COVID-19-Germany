@@ -131,9 +131,9 @@ No,Date,Federated state,District,Latitude,Longitude,Source
 130,03/01/2020,North Rhine-Westphalia,Essen,51.458069,7.014761,coming soon
 131,03/01/2020,North Rhine-Westphalia,Viersen (district),51.2585,6.3918,https://www.presseportal.de/blaulicht/pm/65857/4534528
 132,03/01/2020,North Rhine-Westphalia,Viersen (district),51.2585,6.3918,https://www.presseportal.de/blaulicht/pm/65857/4534528
-133	03/01/2020	Hesse	Lahn-Dill-Kreis	50.65	8.366667	https://twitter.com/StM_Klose/status/1234222718284857345
-134	03/01/2020	Hesse	Bergstraße (district)	49.640712	8.64433	https://twitter.com/StM_Klose/status/1234222718284857345
-135	03/01/2020	Baden-Württemberg	Mannheim	49.488889	8.469167	coming soon
-136	03/01/2020	Baden-Württemberg	Mannheim	49.488889	8.469167	coming soon
-137	03/01/2020	Baden-Württemberg	Mannheim	49.488889	8.469167	coming soon
-138	03/01/2020	Baden-Württemberg	Heilbronn (district)	49.16	9.25	coming soon
+133,03/01/2020,Hesse,Lahn-Dill-Kreis,50.65,8.366667,https://twitter.com/StM_Klose/status/1234222718284857345
+134,03/01/2020,Hesse,Bergstraße (district),49.640712,8.64433,https://twitter.com/StM_Klose/status/1234222718284857345
+135,03/01/2020,Baden-Württemberg,Mannheim,49.488889,8.469167,coming soon
+136,03/01/2020,Baden-Württemberg,Mannheim,49.488889,8.469167,coming soon
+137,03/01/2020,Baden-Württemberg,Mannheim,49.488889,8.469167,coming soon
+138,03/01/2020,Baden-Württemberg,Heilbronn (district),49.16,9.25,coming soon
