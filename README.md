@@ -15,6 +15,10 @@ All officially confirmed cases of infection in Germany. Listed by federal state,
 
 For a simple overview of the course in Germany, the given values (case number, date, federal state, county and coordinates of the county are sufficient. In many cases, additional information is available. This includes the exact city of the infected person, gender, age and an indication of how the case is related to another. However, this information is not always published by the authorities. Therefore I do not put this online either.
 
+<b>Note - N/A display</b>
+
+For the 6 cases from Bavaria (2, 3, 4, 14, 15, 16) I could not find a location so far. The Bavarian authorities had not given any more precise information so far. These 6 cases are the only cases so far without further information. All others have the exact data.
+
 <b>Note - Sources</b>
 
 As a rule, I exclusively use the health ministry of the respective federal state as a source. However, it happens again and again that the federal authorities need several hours, several days for it, until they publish an information. Therefore it happens from time to time that a county is indicated as source. In rare cases a hospital or a university is also indicated as a source, since these are to be likewise classified as respectable sources.
