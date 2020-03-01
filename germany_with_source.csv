@@ -103,7 +103,7 @@ No,Date,Federated state,District,Latitude,Longitude,Source
 102,02/29/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.mags.nrw/coronavirus
 103,02/29/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.mags.nrw/coronavirus
 104,02/29/2020,Hamburg,Hamburg,53.565278,10.001389,https://www.hamburg.de/bgv/pressemeldungen/13653994/2020-02-29-bgv-zweiter-bestaetigter-coronafall/
-105,02/29/2020,Baden-Württemberg,Emmendingen (district),48.1,7.8,comming soon
+105,02/29/2020,Baden-Württemberg,Emmendingen (district),48.1,7.8,coming soon
 106,02/29/2020,Bavaria,Upper Bavaria,48.133333,11.566667,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-drei-weitere-bestaetigte-coronavirus-faelle-in-bayern/
 107,02/29/2020,Bavaria,Upper Bavaria,48.133333,11.566667,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-drei-weitere-bestaetigte-coronavirus-faelle-in-bayern/
 108,02/29/2020,Bavaria,Upper Bavaria,48.133333,11.566667,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-drei-weitere-bestaetigte-coronavirus-faelle-in-bayern/
@@ -118,3 +118,13 @@ No,Date,Federated state,District,Latitude,Longitude,Source
 117,02/29/2020,Hesse,Frankfurt,50.116667,8.683333,https://twitter.com/StM_Klose/status/1233871805779259392
 118,02/29/2020,Hesse,Frankfurt,50.116667,8.683333,https://twitter.com/StM_Klose/status/1233871805779259392
 119,02/29/2020,Hesse,Groß-Gerau,49.919167,8.485,https://twitter.com/StM_Klose/status/1233871805779259392
+120,03/01/2020,North Rhine-Westphalia,Aachen,50.775556,6.083611,https://www.staedteregion-aachen.de/de/navigation/aemter/oeffentlichkeitsarbeit-s-13/aktuelles/pressemitteilungen/aktuelle-pressemitteilungen/coronavirus/
+121,03/01/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.staedteregion-aachen.de/de/navigation/aemter/oeffentlichkeitsarbeit-s-13/aktuelles/pressemitteilungen/aktuelle-pressemitteilungen/coronavirus/
+122,03/01/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.staedteregion-aachen.de/de/navigation/aemter/oeffentlichkeitsarbeit-s-13/aktuelles/pressemitteilungen/aktuelle-pressemitteilungen/coronavirus/
+123,03/01/2020,Bavaria,Middle Franconia,49.326,10.8462,https://www.stmgp.bayern.de/presse/aktuelle-informationen-zur-coronavirus-lage-in-bayern-bayerisches-gesundheitsministerium-18/
+124,03/01/2020,Bavaria,Freising (district),48.5,11.83,https://www.stmgp.bayern.de/presse/aktuelle-informationen-zur-coronavirus-lage-in-bayern-bayerisches-gesundheitsministerium-18/
+125,03/01/2020,Bavaria,Starnberg (district),48,11.33,https://www.stmgp.bayern.de/presse/aktuelle-informationen-zur-coronavirus-lage-in-bayern-bayerisches-gesundheitsministerium-18/
+126,03/01/2020,Bavaria,Ostalgäu,47.75,10.58,https://www.stmgp.bayern.de/presse/aktuelle-informationen-zur-coronavirus-lage-in-bayern-bayerisches-gesundheitsministerium-18/
+127,03/01/2020,North Rhine-Westphalia,Münster,51.9625,7.625556,https://www.muenster.de/stadt/presseservice/pressemeldungen/web/frontend/output/standard/design/standard/page/1/show/1038377
+128,03/01/2020,Schleswig-Holstein,Herzogtum Lauenburg,53.583333,10.666667,coming soon
+129,03/01/2020,Baden-Württemberg,Freiburg im Breisgau,47.983333,7.85,coming soon
