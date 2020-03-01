@@ -1,5 +1,5 @@
 # COVID-19-Germany
-All officially confirmed cases of infection in Germany. Listed by federal state, case number, date, county and source.
+All officially confirmed cases of infection in Germany. Listed by case number, date, federal state, latitude, longitude, source.
 
 <b>Field description</b>
 
@@ -7,8 +7,8 @@ All officially confirmed cases of infection in Germany. Listed by federal state,
 - Date: MM/DD/YYYY (German time, UTC+1)
 - Federated state: Where the case was confirmed
 - District: In which district the case occurred in the respective federal state
-- Longitude: The longitude of the district
 - Latitude: The latitude of the district
+- Longitude: The longitude of the district
 - Source: The competent authority that verified the case
 
 <b>Note - General</b>
@@ -34,3 +34,7 @@ The data is updated several times a day. These vary due to the dynamic condition
 <b>Disclaimer</b>
 
 I compile and maintain the list of German infection cases with the best of conscience. I use all open channels available to me for this purpose. The listing and compilation is truthful. A manipulation on my part does not take place. I only use official authorities (federal state, county, city) as sources (as mentioned above). I trust in the correctness of the authorities that publish the information. I cannot guarantee a 100 percent completeness and correctness of the data. I expressly reject any claims against me due to incorrect data.
+
+<b>Question, suggestions, criticism?</b>
+
+Just send me an e-mail to post@coronavirus.jetzt
