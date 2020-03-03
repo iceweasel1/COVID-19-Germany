@@ -191,4 +191,13 @@ No,Date,Federated state,District,Latitude,Longitude,Source
 190,03/03/2020,North Rhine-Westphalia,N/A,N/A,N/A,coming soon
 191,03/03/2020,Baden-Württemberg,Zollernalbkreis,48.292444,8.925231,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/zwei-weitere-bestaetigte-infektionen-mit-dem-coronavirus/
 192,03/03/2020,Baden-Württemberg,Ulm,48.401082,9.987608,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/zwei-weitere-bestaetigte-infektionen-mit-dem-coronavirus/
-193,03/03/2020,Schleswig-Holstein,Ammersbek,53.7072526,10.2144039,coming soon
+193,03/03/2020,Schleswig-Holstein,Ammersbek,53.7072526,10.2144039,https://www.schleswig-holstein.de/DE/Landesregierung/VIII/Presse/PI/2020/200303_VIII_Stormarn_Corona.html
+194,03/03/2020,Lower Saxony,Ammerland,53.25,7.92,https://www.ms.niedersachsen.de/startseite/aktuelles/presseinformationen/weiterer-corona-fall-in-niedersachsen-oldenburg-meldet-patienten-mit-bestatigter-corona-infektion-aus-dem-ammerland-185653.html
+195,03/03/2020,Hesse,Main-Kinzig-Kreis,50.25,9.3,https://soziales.hessen.de/sites/default/files/media/hsm/2020_03_03_bulletin_coronavirus.pdf
+196,03/03/2020,Rhineland-Palatinate,Kaiserslautern (district),49.5,7.67,https://msagd.rlp.de/de/service/presse/detail/news/News/detail/information-der-landesregierung-zum-aktuellen-stand-hinsichtlich-des-coronavirus-dritter-fall-in-rh/
+197,03/03/2020,Hamburg,Hamburg,53.565278,10.001389,https://www.hamburg.de/bgv/pressemeldungen/13670046/2020-03-03-bgv-coronavirus-aktueller-stand/
+198,03/03/2020,Bavaria,Passau (district),48.5,13.33,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-ein-weiterer-coronavirus-fall-in-bayern-bestaetigt/
+199,03/03/2020,Berlin,Tempelhof-Schöneberg,52.466667,13.383333,coming soon
+200,03/03/2020,Berlin,Neuköln,52.483333,13.45,coming soon
+201,03/03/2020,Baden-Württemberg,Rems-Murr-Kreis,48.916667,9.533333,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/zwei-weitere-bestaetigte-covid-19-faelle-gemeldet/
+202,03/03/2020,Baden-Württemberg,Ludwigsburg (district),48.9,9.2,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/zwei-weitere-bestaetigte-covid-19-faelle-gemeldet/
