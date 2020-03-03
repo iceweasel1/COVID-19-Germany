@@ -137,7 +137,7 @@ No,Date,Federated state,District,Latitude,Longitude,Source
 136,03/01/2020,Baden-Württemberg,Mannheim,49.488889,8.469167,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/zahl-der-bestaetigten-corona-faelle-in-baden-wuerttemberg-steigt-weiter/
 137,03/01/2020,Baden-Württemberg,Mannheim,49.488889,8.469167,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/zahl-der-bestaetigten-corona-faelle-in-baden-wuerttemberg-steigt-weiter/
 138,03/01/2020,Baden-Württemberg,Heilbronn (district),49.16,9.25,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/zahl-der-bestaetigten-corona-faelle-in-baden-wuerttemberg-steigt-weiter/
-139,03/01/2020,Berlin,Berlin,52.52,13.405,https://www.berlin.de/sen/gpg/service/presse/2020/pressemitteilung.901388.php
+139,03/01/2020,Berlin,Mitte,52.516667,13.366667,https://www.berlin.de/sen/gpg/service/presse/2020/pressemitteilung.901388.php
 140,03/01/2020,North Rhine-Westphalia,Rheinisch-Bergischer Kreis,51.016667,7.2,https://www.rbk-direkt.de/news/28796/erster-bestaetigter-corona-fall-im-rheinisch-bergischen-kreis
 141,03/02/2020,Baden-Württemberg,Heilbronn (district),49.16,9.25,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/zahl-der-bestaetigten-corona-faelle-in-baden-wuerttemberg-steigt-weiter-1/
 142,03/02/2020,Baden-Württemberg,Heilbronn (district),49.16,9.25,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/zahl-der-bestaetigten-corona-faelle-in-baden-wuerttemberg-steigt-weiter-1/
@@ -197,7 +197,24 @@ No,Date,Federated state,District,Latitude,Longitude,Source
 196,03/03/2020,Rhineland-Palatinate,Kaiserslautern (district),49.5,7.67,https://msagd.rlp.de/de/service/presse/detail/news/News/detail/information-der-landesregierung-zum-aktuellen-stand-hinsichtlich-des-coronavirus-dritter-fall-in-rh/
 197,03/03/2020,Hamburg,Hamburg,53.565278,10.001389,https://www.hamburg.de/bgv/pressemeldungen/13670046/2020-03-03-bgv-coronavirus-aktueller-stand/
 198,03/03/2020,Bavaria,Passau (district),48.5,13.33,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-ein-weiterer-coronavirus-fall-in-bayern-bestaetigt/
-199,03/03/2020,Berlin,Tempelhof-Schöneberg,52.466667,13.383333,coming soon
-200,03/03/2020,Berlin,Neuköln,52.483333,13.45,coming soon
+199,03/03/2020,Berlin,Tempelhof-Schöneberg,52.466667,13.383333,https://www.berlin.de/sen/gpg/service/presse/2020/pressemitteilung.902522.php
+200,03/03/2020,Berlin,Neuköln,52.483333,13.45,https://www.berlin.de/sen/gpg/service/presse/2020/pressemitteilung.902522.php
 201,03/03/2020,Baden-Württemberg,Rems-Murr-Kreis,48.916667,9.533333,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/zwei-weitere-bestaetigte-covid-19-faelle-gemeldet/
 202,03/03/2020,Baden-Württemberg,Ludwigsburg (district),48.9,9.2,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/zwei-weitere-bestaetigte-covid-19-faelle-gemeldet/
+203,03/03/2020,Lower Saxony,Hanover Region,52.42,9.72,https://www.ms.niedersachsen.de/startseite/service_kontakt/presseinformationen/vier-bestatigte-falle-von-covid-19-in-niedersachsen-185675.html
+204,03/03/2020,Lower Saxony,Cuxhaven (district),53.67,8.83,https://www.ms.niedersachsen.de/startseite/service_kontakt/presseinformationen/vier-bestatigte-falle-von-covid-19-in-niedersachsen-185675.html
+205,03/03/2020,Mecklenburg-Vorpommern,Vorpommern-Greifswald,53.833333,13.666667,https://www.regierung-mv.de/Landesregierung/wm/Presse/?id=158183&processor=processor.sa.pressemitteilung
+206,03/03/2020,Mecklenburg-Vorpommern,Vorpommern-Greifswald,53.833333,13.666667,https://www.regierung-mv.de/Landesregierung/wm/Presse/?id=158183&processor=processor.sa.pressemitteilung
+207,03/03/2020,Berlin,Mitte,52.516667,13.366667,https://www.berlin.de/sen/gpg/service/presse/2020/pressemitteilung.902522.php
+208,03/03/2020,Baden-Württemberg,Esslingen (district),48.69,9.32,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/sieben-neue-covid-19-faelle-gemeldet/
+209,03/03/2020,Baden-Württemberg,Esslingen (district),48.69,9.32,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/sieben-neue-covid-19-faelle-gemeldet/
+210,03/03/2020,Baden-Württemberg,Esslingen (district),48.69,9.32,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/sieben-neue-covid-19-faelle-gemeldet/
+211,03/03/2020,Baden-Württemberg,Esslingen (district),48.69,9.32,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/sieben-neue-covid-19-faelle-gemeldet/
+212,03/03/2020,Baden-Württemberg,Esslingen (district),48.69,9.32,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/sieben-neue-covid-19-faelle-gemeldet/
+213,03/03/2020,Baden-Württemberg,Lörrach (district),47.65,7.7,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/sieben-neue-covid-19-faelle-gemeldet/
+214,03/03/2020,Baden-Württemberg,Ostalbkreis,48.866667,10.1,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/sieben-neue-covid-19-faelle-gemeldet/
+215,03/03/2020,Saarland,Saarpfalz-Kreis,49.25,7.25,https://www.saarland.de/SID-AF0EE65B-3FA62C79/59841_253888.htm
+216,03/03/2020,Bremen,Bremen (state),53.075833,8.8075,https://www.senatspressestelle.bremen.de/sixcms/detail.php?gsid=bremen146.c.331090.de
+217,03/03/2020,Bremen,Bremen (state),53.075833,8.8075,https://www.senatspressestelle.bremen.de/sixcms/detail.php?gsid=bremen146.c.331090.de
+218,03/03/2020,Rhineland-Palatinate,Mainz-Bingen,49.92,8.08,https://www.mainz-bingen.de/de/aktuelles/meldungen/1772131496.php
+219,03/03/2020,Mecklenburg-Vorpommern,Vorpommern-Rügen,54.333333,13,https://www.regierung-mv.de/Landesregierung/wm/Presse/?id=158187&processor=processor.sa.pressemitteilung
