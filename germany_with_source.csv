@@ -152,21 +152,21 @@ No,Date,Federated state,District,Latitude,Longitude,Source
 151,03/02/2020,Hamburg,Hamburg,53.565278,10.001389,https://www.hamburg.de/bgv/pressemeldungen/13659432/2020-03-02-bgv-neuer-stand-coronavirus/
 152,03/02/2020,Bavaria,Bayreuth (district),49.92,11.5,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-zwei-weitere-coronavirus-faelle-in-bayern-bestaetigt/
 153,03/02/2020,Bavaria,Bayreuth (district),49.92,11.5,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-zwei-weitere-coronavirus-faelle-in-bayern-bestaetigt/
-154,03/02/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.mags.nrw/coronavirus
-155,03/02/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.mags.nrw/coronavirus
-156,03/02/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.mags.nrw/coronavirus
-157,03/02/2020,North Rhine-Westphalia,Aachen (district),50.75,6.25,https://www.mags.nrw/coronavirus
-158,03/02/2020,North Rhine-Westphalia,Aachen (district),50.75,6.25,https://www.mags.nrw/coronavirus
-159,03/02/2020,North Rhine-Westphalia,Aachen (district),50.75,6.25,https://www.mags.nrw/coronavirus
-160,03/02/2020,North Rhine-Westphalia,Aachen (district),50.75,6.25,https://www.mags.nrw/coronavirus
-161,03/02/2020,North Rhine-Westphalia,Aachen (district),50.75,6.25,https://www.mags.nrw/coronavirus
+154,03/02/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+155,03/02/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+156,03/02/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+157,03/02/2020,North Rhine-Westphalia,Aachen (district),50.75,6.25,http://www.aachen.de/DE/stadt_buerger/notfall_informationen/corona/pressemitteilungen/corona_montag_02032020.html
+158,03/02/2020,North Rhine-Westphalia,Aachen (district),50.75,6.25,http://www.aachen.de/DE/stadt_buerger/notfall_informationen/corona/pressemitteilungen/corona_montag_02032020.html
+159,03/02/2020,North Rhine-Westphalia,Aachen (district),50.75,6.25,http://www.aachen.de/DE/stadt_buerger/notfall_informationen/corona/pressemitteilungen/corona_montag_02032020.html
+160,03/02/2020,North Rhine-Westphalia,Aachen (district),50.75,6.25,http://www.aachen.de/DE/stadt_buerger/notfall_informationen/corona/pressemitteilungen/corona_montag_02032020.html
+161,03/02/2020,North Rhine-Westphalia,Aachen (district),50.75,6.25,http://www.aachen.de/DE/stadt_buerger/notfall_informationen/corona/pressemitteilungen/corona_montag_02032020.html
 162,03/02/2020,North Rhine-Westphalia,Cologne,50.936389,6.952778,https://www.mags.nrw/coronavirus
 163,03/02/2020,North Rhine-Westphalia,Cologne,50.936389,6.952778,https://www.mags.nrw/coronavirus
 164,03/02/2020,North Rhine-Westphalia,Cologne,50.936389,6.952778,https://www.mags.nrw/coronavirus
 165,03/02/2020,North Rhine-Westphalia,Cologne,50.936389,6.952778,https://www.mags.nrw/coronavirus
 166,03/02/2020,North Rhine-Westphalia,Cologne,50.936389,6.952778,https://www.mags.nrw/coronavirus
 167,03/02/2020,North Rhine-Westphalia,Unna (district),51.58,7.67,https://www.mags.nrw/coronavirus
-168,03/02/2020,North Rhine-Westphalia,Düren (district),50.83,6.5,https://www.mags.nrw/coronavirus
+168,03/02/2020,North Rhine-Westphalia,Düren (district),50.83,6.5,https://www.kreis-dueren.de/aktuelles/presse/presse_dat.php?pm=/aktuelles/presse/2020/Corona_Fall.php
 169,03/02/2020,Hesse,Frankfurt,50.116667,8.683333,https://soziales.hessen.de/sites/default/files/media/2020_03_02_bulletin_coronavirus.pdf
 170,03/02/2020,Baden-Württemberg,Heilbronn,49.15,9.216667,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/neue-bestaetigte-infektion-mit-dem-coronavirus-in-heilbronn/
 171,03/02/2020,Saxony,Sächsische Schweiz-Osterzgebirge,50.9,13.833333,https://www.medienservice.sachsen.de/medien/news/234617
@@ -180,15 +180,15 @@ No,Date,Federated state,District,Latitude,Longitude,Source
 179,03/02/2020,Berlin,Mitte,52.516667,13.366667,https://www.berlin.de/sen/gpg/service/presse/2020/pressemitteilung.901873.php
 180,03/02/2020,Brandenburg,Oberhavel,52.883333,13.25,https://msgiv.brandenburg.de/msgiv/de/presse/pressemitteilungen/detail/~02-03-2020-erster-corona-fall-in-brandenburg
 181,03/02/2020,Thuringia,Saale-Orla-Kreis,50.58,11.75,https://twitter.com/SozialesTH/status/1234574307994591241
-182,03/03/2020,North Rhine-Westphalia,N/A,N/A,N/A,coming soon
-183,03/03/2020,North Rhine-Westphalia,N/A,N/A,N/A,coming soon
-184,03/03/2020,North Rhine-Westphalia,N/A,N/A,N/A,coming soon
-185,03/03/2020,North Rhine-Westphalia,N/A,N/A,N/A,coming soon
-186,03/03/2020,North Rhine-Westphalia,N/A,N/A,N/A,coming soon
-187,03/03/2020,North Rhine-Westphalia,N/A,N/A,N/A,coming soon
-188,03/03/2020,North Rhine-Westphalia,N/A,N/A,N/A,coming soon
-189,03/03/2020,North Rhine-Westphalia,N/A,N/A,N/A,coming soon
-190,03/03/2020,North Rhine-Westphalia,N/A,N/A,N/A,coming soon
+182,03/03/2020,North Rhine-Westphalia,Düren (district),50.83,6.5,https://www.kreis-dueren.de/aktuelles/presse/presse_dat.php?pm=/aktuelles/presse/2020/Zweiter_Fall_Corona.php
+183,03/03/2020,North Rhine-Westphalia,Münster,51.9625,7.625556,https://www.muenster.de/stadt/presseservice/pressemeldungen/web/frontend/output/standard/design/standard/page/1/show/1038782
+184,03/03/2020,North Rhine-Westphalia,Essen,51.458069,7.014761,https://www.essen.de/meldungen/pressemeldung_1362181.de.html
+185,03/03/2020,North Rhine-Westphalia,Mettmann (district),51.2585,7,"https://www.kreis-mettmann.de/Kreis-Politik/Presse-Kommunikation/Pressemitteilungen/Corona-Gute-Nachrichten-in-Haan-und-Erkrath.php?object=tx,2.1&ModID=7&FID=2023.5534.1&NavID=2023.541&La=1"
+186,03/03/2020,North Rhine-Westphalia,Rhein-Kreis Neuss,51.17,6.67,coming soon
+187,03/03/2020,North Rhine-Westphalia,Cologne,50.936389,6.952778,coming soon
+188,03/03/2020,North Rhine-Westphalia,Cologne,50.936389,6.952778,coming soon
+189,03/03/2020,North Rhine-Westphalia,Oberbergischer Kreis,51.033333,7.516667,http://www.oberbergischer-kreis.de/cms200/aktuelles/pressemitteilungen/artikel/68544/index.shtml
+190,03/03/2020,North Rhine-Westphalia,Oberbergischer Kreis,51.033333,7.516667,http://www.oberbergischer-kreis.de/cms200/aktuelles/pressemitteilungen/artikel/68544/index.shtml
 191,03/03/2020,Baden-Württemberg,Zollernalbkreis,48.292444,8.925231,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/zwei-weitere-bestaetigte-infektionen-mit-dem-coronavirus/
 192,03/03/2020,Baden-Württemberg,Ulm,48.401082,9.987608,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/zwei-weitere-bestaetigte-infektionen-mit-dem-coronavirus/
 193,03/03/2020,Schleswig-Holstein,Ammersbek,53.7072526,10.2144039,https://www.schleswig-holstein.de/DE/Landesregierung/VIII/Presse/PI/2020/200303_VIII_Stormarn_Corona.html
@@ -218,3 +218,160 @@ No,Date,Federated state,District,Latitude,Longitude,Source
 217,03/03/2020,Bremen,Bremen (state),53.075833,8.8075,https://www.senatspressestelle.bremen.de/sixcms/detail.php?gsid=bremen146.c.331090.de
 218,03/03/2020,Rhineland-Palatinate,Mainz-Bingen,49.92,8.08,https://www.mainz-bingen.de/de/aktuelles/meldungen/1772131496.php
 219,03/03/2020,Mecklenburg-Vorpommern,Vorpommern-Rügen,54.333333,13,https://www.regierung-mv.de/Landesregierung/wm/Presse/?id=158187&processor=processor.sa.pressemitteilung
+220,03/04/2020,Bavaria,Munich (district),48,11.67,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-elf-weitere-coronavirus-faelle-in-bayern-bestaetigt/
+221,03/04/2020,Bavaria,Munich (district),48,11.67,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-elf-weitere-coronavirus-faelle-in-bayern-bestaetigt/
+222,03/04/2020,Bavaria,Freising (district),48.5,11.83,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-elf-weitere-coronavirus-faelle-in-bayern-bestaetigt/
+223,03/04/2020,Bavaria,Freising (district),48.5,11.83,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-elf-weitere-coronavirus-faelle-in-bayern-bestaetigt/
+224,03/04/2020,Bavaria,Freising (district),48.5,11.83,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-elf-weitere-coronavirus-faelle-in-bayern-bestaetigt/
+225,03/04/2020,Bavaria,Freising (district),48.5,11.83,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-elf-weitere-coronavirus-faelle-in-bayern-bestaetigt/
+226,03/04/2020,Bavaria,Freising (district),48.5,11.83,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-elf-weitere-coronavirus-faelle-in-bayern-bestaetigt/
+227,03/04/2020,Bavaria,Freising (district),48.5,11.83,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-elf-weitere-coronavirus-faelle-in-bayern-bestaetigt/
+228,03/04/2020,Bavaria,Augsburg (district),48.02,10.83,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-elf-weitere-coronavirus-faelle-in-bayern-bestaetigt/
+229,03/04/2020,Bavaria,Ostalgäu,47.75,10.58,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-elf-weitere-coronavirus-faelle-in-bayern-bestaetigt/
+230,03/04/2020,Bavaria,Lindau (district),47.58,9.75,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-elf-weitere-coronavirus-faelle-in-bayern-bestaetigt/
+231,03/04/2020,Baden-Württemberg,Freiburg im Breisgau,47.983333,7.85,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/sieben-weitere-bestaetigte-infektionen-mit-covid-19/
+232,03/04/2020,Baden-Württemberg,Freiburg im Breisgau,47.983333,7.85,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/sieben-weitere-bestaetigte-infektionen-mit-covid-19/
+233,03/04/2020,Baden-Württemberg,Freiburg im Breisgau,47.983333,7.85,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/sieben-weitere-bestaetigte-infektionen-mit-covid-19/
+234,03/04/2020,Baden-Württemberg,Bodenseekreis,47.733333,9.383333,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/sieben-weitere-bestaetigte-infektionen-mit-covid-19/
+235,03/04/2020,Baden-Württemberg,Ulm,48.401082,9.987608,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/sieben-weitere-bestaetigte-infektionen-mit-covid-19/
+236,03/04/2020,Baden-Württemberg,Ulm,48.401082,9.987608,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/sieben-weitere-bestaetigte-infektionen-mit-covid-19/
+237,03/04/2020,Baden-Württemberg,Ulm,48.401082,9.987608,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/sieben-weitere-bestaetigte-infektionen-mit-covid-19/
+238,03/04/2020,Bavaria,Munich (district),48,11.67,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-vier-weitere-coronavirus-faelle-in-bayern-bestaetigt/
+239,03/04/2020,Bavaria,Munich (district),48,11.67,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-vier-weitere-coronavirus-faelle-in-bayern-bestaetigt/
+240,03/04/2020,Bavaria,Freising (district),48.5,11.83,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-vier-weitere-coronavirus-faelle-in-bayern-bestaetigt/
+241,03/04/2020,Bavaria,Nuremberg,49.45,11.083333,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-vier-weitere-coronavirus-faelle-in-bayern-bestaetigt/
+242,03/04/2020,Rhineland-Palatinate,Germersheim (district),49.08,8.25,https://msagd.rlp.de/de/service/presse/detail/news/News/detail/information-der-landesregierung-zum-aktuellen-stand-hinsichtlich-des-coronavirus-insgesamt-7-faelle/
+243,03/04/2020,Rhineland-Palatinate,Germersheim (district),49.08,8.25,https://msagd.rlp.de/de/service/presse/detail/news/News/detail/information-der-landesregierung-zum-aktuellen-stand-hinsichtlich-des-coronavirus-insgesamt-7-faelle/
+244,03/04/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+245,03/04/2020,Hamburg,Hamburg,53.565278,10.001389,https://www.hamburg.de/bgv/pressemeldungen/13676660/2020-03-04-bgv-coronavirus-aktuell/
+246,03/04/2020,Baden-Württemberg,Main-Tauber-Kreis,49.57,9.71,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/sechs-weitere-bestaetigte-infektionen-mit-covid-19/
+247,03/04/2020,Baden-Württemberg,Rhein-Neckar-Kreis,49.366667,8.733333,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/sechs-weitere-bestaetigte-infektionen-mit-covid-19/
+248,03/04/2020,Baden-Württemberg,Rhein-Neckar-Kreis,49.366667,8.733333,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/sechs-weitere-bestaetigte-infektionen-mit-covid-19/
+249,03/04/2020,Baden-Württemberg,Rhein-Neckar-Kreis,49.366667,8.733333,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/sechs-weitere-bestaetigte-infektionen-mit-covid-19/
+250,03/04/2020,Baden-Württemberg,Stuttgart,48.783333,9.183333,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/sechs-weitere-bestaetigte-infektionen-mit-covid-19/
+251,03/04/2020,Baden-Württemberg,Ludwigsburg (district),48.9,9.2,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/sechs-weitere-bestaetigte-infektionen-mit-covid-19/
+252,03/04/2020,Bavaria,Lindau (district),47.58,9.75,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-fuenf-weitere-coronavirus-faelle-in-bayern-bestaetigt/
+253,03/04/2020,Bavaria,Augsburg (district),48.02,10.83,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-fuenf-weitere-coronavirus-faelle-in-bayern-bestaetigt/
+254,03/04/2020,Bavaria,Erding (district),48.33,11.92,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-fuenf-weitere-coronavirus-faelle-in-bayern-bestaetigt/
+255,03/04/2020,Bavaria,Passau (district),48.5,13.33,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-fuenf-weitere-coronavirus-faelle-in-bayern-bestaetigt/
+256,03/04/2020,Bavaria,Munich (district),48,11.67,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-fuenf-weitere-coronavirus-faelle-in-bayern-bestaetigt/
+257,03/04/2020,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte (district),53.5,13.083333,https://www.regierung-mv.de/Landesregierung/wm/Presse/?id=158219&processor=processor.sa.pressemitteilung
+258,03/04/2020,Berlin,Friedrichshain-Kreuzberg,52.516667,13.45,https://www.berlin.de/sen/gpg/service/presse/2020/pressemitteilung.903044.php
+259,03/04/2020,Berlin,Friedrichshain-Kreuzberg,52.516667,13.45,https://www.berlin.de/sen/gpg/service/presse/2020/pressemitteilung.903044.php
+260,03/04/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+261,03/04/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+262,03/04/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+263,03/04/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+264,03/04/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+265,03/04/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+266,03/04/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+267,03/04/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+268,03/04/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+269,03/04/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+270,03/04/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+271,03/04/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+272,03/04/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+273,03/04/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+274,03/04/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+275,03/04/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+276,03/04/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+277,03/04/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+278,03/04/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+279,03/04/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+280,03/04/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+281,03/04/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+282,03/04/2020,North Rhine-Westphalia,Rheinisch-Bergischer Kreis,51.016667,7.2,https://www.rbk-direkt.de/news/28801/zweiter-bestaetigter-corona-fall-im-rheinisch-bergischen-kreis
+283,03/04/2020,North Rhine-Westphalia,Düsseldorf,51.233333,6.783333,https://www.duesseldorf.de/leben-in-duesseldorf/informationen-zum-coronavirus/zwei-duesseldorfer-mit-coronavirus-infiziert/?L=0
+284,03/04/2020,North Rhine-Westphalia,Wesel (district),51.67,6.67,coming soon
+285,03/04/2020,North Rhine-Westphalia,Rhein-Erft-Kreis,50.92,6.67,https://www.rhein-erft-kreis.de/meldungenpresse/artikel/erster-bestätigter-coronafall-im-rheinerftkreis
+286,03/04/2020,North Rhine-Westphalia,Aachen (district),50.75,6.25,http://www.aachen.de/DE/stadt_buerger/notfall_informationen/corona/pressemitteilungen/Abstrichzentrum.html
+287,03/04/2020,North Rhine-Westphalia,Aachen (district),50.75,6.25,http://www.aachen.de/DE/stadt_buerger/notfall_informationen/corona/pressemitteilungen/Abstrichzentrum.html
+288,03/04/2020,North Rhine-Westphalia,Aachen (district),50.75,6.25,http://www.aachen.de/DE/stadt_buerger/notfall_informationen/corona/pressemitteilungen/Abstrichzentrum.html
+289,03/04/2020,Baden-Württemberg,Rems-Murr-Kreis,48.916667,9.533333,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/acht-weitere-bestaetigte-covid-19-infektionen/
+290,03/04/2020,Baden-Württemberg,Zollernalbkreis,48.283333,8.933333,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/acht-weitere-bestaetigte-covid-19-infektionen/
+291,03/04/2020,Baden-Württemberg,Ostalbkreis,48.866667,10.1,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/acht-weitere-bestaetigte-covid-19-infektionen/
+292,03/04/2020,Baden-Württemberg,Ostalbkreis,48.866667,10.1,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/acht-weitere-bestaetigte-covid-19-infektionen/
+293,03/04/2020,Baden-Württemberg,Heidenheim (district),48.64,10.12,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/acht-weitere-bestaetigte-covid-19-infektionen/
+294,03/04/2020,Baden-Württemberg,Sigmaringen (district),48.08,9.17,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/acht-weitere-bestaetigte-covid-19-infektionen/
+295,03/04/2020,Baden-Württemberg,Mannheim,49.488889,8.469167,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/acht-weitere-bestaetigte-covid-19-infektionen/
+296,03/04/2020,Baden-Württemberg,Freiburg im Breisgau,47.983333,7.85,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/acht-weitere-bestaetigte-covid-19-infektionen/
+297,03/04/2020,North Rhine-Westphalia,Aachen (district),50.75,6.25,http://www.aachen.de/DE/stadt_buerger/notfall_informationen/corona/pressemitteilungen/Abstrichzentrum.html
+298,03/04/2020,North Rhine-Westphalia,Aachen (district),50.75,6.25,http://www.aachen.de/DE/stadt_buerger/notfall_informationen/corona/pressemitteilungen/Abstrichzentrum.html
+299,03/04/2020,North Rhine-Westphalia,Aachen (district),50.75,6.25,http://www.aachen.de/DE/stadt_buerger/notfall_informationen/corona/pressemitteilungen/Abstrichzentrum.html
+300,03/04/2020,North Rhine-Westphalia,Aachen (district),50.75,6.25,http://www.aachen.de/DE/stadt_buerger/notfall_informationen/corona/pressemitteilungen/Abstrichzentrum.html
+301,03/04/2020,North Rhine-Westphalia,Aachen (district),50.75,6.25,http://www.aachen.de/DE/stadt_buerger/notfall_informationen/corona/pressemitteilungen/Abstrichzentrum.html
+302,03/04/2020,North Rhine-Westphalia,Aachen (district),50.75,6.25,http://www.aachen.de/DE/stadt_buerger/notfall_informationen/corona/pressemitteilungen/Abstrichzentrum.html
+303,03/04/2020,North Rhine-Westphalia,Aachen (district),50.75,6.25,http://www.aachen.de/DE/stadt_buerger/notfall_informationen/corona/pressemitteilungen/Abstrichzentrum.html
+304,03/04/2020,North Rhine-Westphalia,Aachen (district),50.75,6.25,http://www.aachen.de/DE/stadt_buerger/notfall_informationen/corona/pressemitteilungen/Abstrichzentrum.html
+305,03/04/2020,North Rhine-Westphalia,Aachen (district),50.75,6.25,http://www.aachen.de/DE/stadt_buerger/notfall_informationen/corona/pressemitteilungen/Abstrichzentrum.html
+306,03/04/2020,North Rhine-Westphalia,Aachen (district),50.75,6.25,http://www.aachen.de/DE/stadt_buerger/notfall_informationen/corona/pressemitteilungen/Abstrichzentrum.html
+307,03/04/2020,North Rhine-Westphalia,Aachen (district),50.75,6.25,http://www.aachen.de/DE/stadt_buerger/notfall_informationen/corona/pressemitteilungen/Abstrichzentrum.html
+308,03/04/2020,Baden-Württemberg,Alb-Donau-Kreis,48.4,9.85,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/sieben-weitere-bestaetigte-covid-19-infektionen/
+309,03/04/2020,Baden-Württemberg,Alb-Donau-Kreis,48.4,9.85,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/sieben-weitere-bestaetigte-covid-19-infektionen/
+310,03/04/2020,Baden-Württemberg,Heilbronn (district),49.16,9.25,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/sieben-weitere-bestaetigte-covid-19-infektionen/
+311,03/04/2020,Baden-Württemberg,Heilbronn (district),49.16,9.25,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/sieben-weitere-bestaetigte-covid-19-infektionen/
+312,03/04/2020,Baden-Württemberg,Heilbronn (district),49.16,9.25,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/sieben-weitere-bestaetigte-covid-19-infektionen/
+313,03/04/2020,Baden-Württemberg,Heilbronn (district),49.16,9.25,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/sieben-weitere-bestaetigte-covid-19-infektionen/
+314,03/04/2020,Baden-Württemberg,Stuttgart,48.783333,9.183333,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/sieben-weitere-bestaetigte-covid-19-infektionen/
+315,03/04/2020,Berlin,Pankow,52.566667,13.4,https://www.berlin.de/sen/gpg/service/presse/2020/pressemitteilung.903098.php
+316,03/04/2020,North Rhine-Westphalia,Märkischer Kreis,51.225,7.614444,https://www.maerkischer-kreis.de/service/pressemeldungen/presseservice1038787.php
+317,03/04/2020,North Rhine-Westphalia,Märkischer Kreis,51.225,7.614444,https://www.maerkischer-kreis.de/service/pressemeldungen/presseservice1038787.php
+318,03/04/2020,North Rhine-Westphalia,Märkischer Kreis,51.225,7.614444,https://www.maerkischer-kreis.de/service/pressemeldungen/presseservice1038787.php
+319,03/04/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+320,03/04/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+321,03/04/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+322,03/04/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+323,03/04/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+324,03/04/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+325,03/04/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+326,03/04/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+327,03/04/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+328,03/04/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+329,03/04/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+330,03/04/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+331,03/04/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+332,03/04/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+333,03/04/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+334,03/04/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+335,03/04/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+336,03/04/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+337,03/04/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+338,03/04/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+339,03/04/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+340,03/04/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+341,03/04/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+342,03/04/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+343,03/04/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+344,03/04/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+345,03/04/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+346,03/04/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+347,03/04/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+348,03/04/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+349,03/04/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+350,03/04/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+351,03/04/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+352,03/04/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+353,03/04/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+354,03/04/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+355,03/04/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+356,03/04/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+357,03/04/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+358,03/04/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+359,03/04/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+360,03/04/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+361,03/04/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+362,03/04/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+363,03/04/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+364,03/04/2020,North Rhine-Westphalia,Bochum,51.481944,7.215833,https://www.bochum.de/Pressemeldungen/4-Maerz-2020/Ein-Bochumer-mit-Coronavirus-infiziert
+365,03/04/2020,North Rhine-Westphalia,Gütersloh (district),51.916667,8.333333,https://www.kreis-guetersloh.de/aktuelles/presse-und-oeffentlichkeitsarbeit/pressemitteilungen/04-03-2020-erster-coronafall/
+366,03/04/2020,North Rhine-Westphalia,Essen,51.458069,7.014761,https://www.essen.de/meldungen/pressemeldung_1362329.de.html
+367,03/04/2020,Lower Saxony,County of Bentheim (district),52.42,7.08,https://www.ms.niedersachsen.de/startseite/aktuelles/presseinformationen/neun-laborbestatigte-falle-von-covid-19-in-niedersachsen-185794.html
+368,03/04/2020,Lower Saxony,Oldenburg (district),53,8.42,https://www.ms.niedersachsen.de/startseite/aktuelles/presseinformationen/neun-laborbestatigte-falle-von-covid-19-in-niedersachsen-185794.html
+369,03/04/2020,Lower Saxony,Leer (district),53.25,7.5,https://www.ms.niedersachsen.de/startseite/aktuelles/presseinformationen/neun-laborbestatigte-falle-von-covid-19-in-niedersachsen-185794.html
+370,03/04/2020,Lower Saxony,Rotenburg (district),53.25,9.33,https://www.ms.niedersachsen.de/startseite/aktuelles/presseinformationen/neun-laborbestatigte-falle-von-covid-19-in-niedersachsen-185794.html
+371,03/04/2020,Lower Saxony,Rotenburg (district),53.25,9.33,https://www.ms.niedersachsen.de/startseite/aktuelles/presseinformationen/neun-laborbestatigte-falle-von-covid-19-in-niedersachsen-185794.html
+372,03/04/2020,North Rhine-Westphalia,Düsseldorf,51.233333,6.783333,https://www.duesseldorf.de/leben-in-duesseldorf/informationen-zum-coronavirus/zwei-duesseldorfer-mit-coronavirus-infiziert/?L=0
+373,03/04/2020,North Rhine-Westphalia,Rhein-Erft-Kreis,50.92,6.67,https://www.rhein-erft-kreis.de/meldungenpresse/artikel/coronalage-im-rek-zweiter-fall-und-schule-römerturm-weiter-geschlossen
+374,03/04/2020,North Rhine-Westphalia,Rheinisch-Bergischer Kreis,51.016667,7.2,https://www.rbk-direkt.de/news/28802/ehemann-der-am-coronavirus-erkrankten-overatherin-ebenfalls-positiv-getestet--insgesamt-drei-faelle-im-rheinisch-bergischen-kreis
+375,03/04/2020,North Rhine-Westphalia,Düren (district),50.83,6.5,https://www.kreis-dueren.de/aktuelles/index.php?pm=/aktuelles/presse/gesundheit/2020_03_4_Dritter_bestaetigter_Corona-Fall_im_Kreis_Dueren.php
+376,03/04/2020,North Rhine-Westphalia,Münster,51.9625,7.625556,https://www.muenster.de/stadt/presseservice/pressemeldungen/web/frontend/output/standard/design/standard/page/1/show/1038782
