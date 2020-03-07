@@ -525,7 +525,7 @@ No,Date,Federated state,District,Latitude,Longitude,Source
 524,03/05/2020,North Rhine-Westphalia,Coesfeld (district),51.866667,7.383333,https://www.kreis-coesfeld.de/themen-projekte/gesundheit/informationen-zum-coronavirus/presse-coronavirus-einzelansicht.html?tx_news_pi1[news]=6349&tx_news_pi1[controller]=News&tx_news_pi1[action]=detail&cHash=a33fbcd7fc361734959bd81de7c7489f
 525,03/05/2020,North Rhine-Westphalia,Coesfeld (district),51.866667,7.383333,https://www.kreis-coesfeld.de/themen-projekte/gesundheit/informationen-zum-coronavirus/presse-coronavirus-einzelansicht.html?tx_news_pi1[news]=6349&tx_news_pi1[controller]=News&tx_news_pi1[action]=detail&cHash=a33fbcd7fc361734959bd81de7c7489f
 526,03/05/2020,North Rhine-Westphalia,Coesfeld (district),51.866667,7.383333,https://www.kreis-coesfeld.de/themen-projekte/gesundheit/informationen-zum-coronavirus/presse-coronavirus-einzelansicht.html?tx_news_pi1[news]=6349&tx_news_pi1[controller]=News&tx_news_pi1[action]=detail&cHash=a33fbcd7fc361734959bd81de7c7489f
-527,03/05/2020,North Rhine-Westphalia,Recklinghausen (district),51.67,7.17,coming soon
+527,03/05/2020,North Rhine-Westphalia,Recklinghausen (district),51.67,7.17,http://www.presse-service.de/data.aspx/static/1039003.html
 528,03/05/2020,North Rhine-Westphalia,Lippe (district),52,8.916667,https://www.kreis-lippe.de/?object=tx|2001.7113.1&ModID=255&FID=2001.7113.1&La=1
 529,03/05/2020,North Rhine-Westphalia,Gelsenkirchen,51.516667,7.1,https://www.gelsenkirchen.de/de/_meta/aktuelles/artikel/42811-corona-erkrankungen-in-gelsenkirchen
 530,03/05/2020,North Rhine-Westphalia,Gelsenkirchen,51.516667,7.1,https://www.gelsenkirchen.de/de/_meta/aktuelles/artikel/42811-corona-erkrankungen-in-gelsenkirchen
@@ -575,3 +575,143 @@ No,Date,Federated state,District,Latitude,Longitude,Source
 574,03/05/2020,North Rhine-Westphalia,Cologne,50.936389,6.952778,https://www.stadt-koeln.de/politik-und-verwaltung/presse/eilmeldung/index.html?id=1583426877
 575,03/05/2020,North Rhine-Westphalia,Cologne,50.936389,6.952778,https://www.stadt-koeln.de/politik-und-verwaltung/presse/eilmeldung/index.html?id=1583426877
 576,03/05/2020,North Rhine-Westphalia,Cologne,50.936389,6.952778,https://www.stadt-koeln.de/politik-und-verwaltung/presse/eilmeldung/index.html?id=1583426877
+577,03/06/2020,Baden-Württemberg,Heilbronn (district),49.16,9.25,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/sieben-weitere-bestaetigte-covid-19-infektionen-2/
+578,03/06/2020,Baden-Württemberg,Rems-Murr-Kreis,48.916667,9.533333,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/sieben-weitere-bestaetigte-covid-19-infektionen-2/
+579,03/06/2020,Baden-Württemberg,Ortenaukreis,48.416667,8,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/sieben-weitere-bestaetigte-covid-19-infektionen-2/
+580,03/06/2020,Baden-Württemberg,Ortenaukreis,48.416667,8,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/sieben-weitere-bestaetigte-covid-19-infektionen-2/
+581,03/06/2020,Baden-Württemberg,Calw (district),48.7,8.74,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/sieben-weitere-bestaetigte-covid-19-infektionen-2/
+582,03/06/2020,Baden-Württemberg,Emmendingen (district),48.1,7.8,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/sieben-weitere-bestaetigte-covid-19-infektionen-2/
+583,03/06/2020,Baden-Württemberg,Biberach (district),48.08,9.83,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/sieben-weitere-bestaetigte-covid-19-infektionen-2/
+584,03/06/2020,Baden-Württemberg,Heilbronn (district),49.16,9.25,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/20-weitere-bestaetigte-covid-19-infektionen/
+585,03/06/2020,Baden-Württemberg,Heilbronn (district),49.16,9.25,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/20-weitere-bestaetigte-covid-19-infektionen/
+586,03/06/2020,Baden-Württemberg,Heilbronn (district),49.16,9.25,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/20-weitere-bestaetigte-covid-19-infektionen/
+587,03/06/2020,Baden-Württemberg,Heilbronn (district),49.16,9.25,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/20-weitere-bestaetigte-covid-19-infektionen/
+588,03/06/2020,Baden-Württemberg,Ludwigsburg (district),48.9,9.2,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/20-weitere-bestaetigte-covid-19-infektionen/
+589,03/06/2020,Baden-Württemberg,Ludwigsburg (district),48.9,9.2,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/20-weitere-bestaetigte-covid-19-infektionen/
+590,03/06/2020,Baden-Württemberg,Böblingen (district),48.7,9.01,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/20-weitere-bestaetigte-covid-19-infektionen/
+591,03/06/2020,Baden-Württemberg,Böblingen (district),48.7,9.01,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/20-weitere-bestaetigte-covid-19-infektionen/
+592,03/06/2020,Baden-Württemberg,Esslingen (district),48.69,9.32,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/20-weitere-bestaetigte-covid-19-infektionen/
+593,03/06/2020,Baden-Württemberg,Karlsruhe (district),49.08,8.58,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/20-weitere-bestaetigte-covid-19-infektionen/
+594,03/06/2020,Baden-Württemberg,Ravensburg (district),47.82,9.8,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/20-weitere-bestaetigte-covid-19-infektionen/
+595,03/06/2020,Baden-Württemberg,Bodenseekreis,47.733333,9.383333,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/20-weitere-bestaetigte-covid-19-infektionen/
+596,03/06/2020,Baden-Württemberg,Neckar-Odenwald-Kreis,49.483333,9.283333,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/20-weitere-bestaetigte-covid-19-infektionen/
+597,03/06/2020,Baden-Württemberg,Main-Tauber-Kreis,49.57,9.71,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/20-weitere-bestaetigte-covid-19-infektionen/
+598,03/06/2020,Baden-Württemberg,Rems-Murr-Kreis,48.916667,9.533333,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/20-weitere-bestaetigte-covid-19-infektionen/
+599,03/06/2020,Baden-Württemberg,Rhein-Neckar-Kreis,49.366667,8.733333,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/20-weitere-bestaetigte-covid-19-infektionen/
+600,03/06/2020,Baden-Württemberg,Mannheim,49.488889,8.469167,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/20-weitere-bestaetigte-covid-19-infektionen/
+601,03/06/2020,Baden-Württemberg,Stuttgart,48.783333,9.183333,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/20-weitere-bestaetigte-covid-19-infektionen/
+602,03/06/2020,Baden-Württemberg,Freiburg im Breisgau,47.983333,7.85,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/20-weitere-bestaetigte-covid-19-infektionen/
+603,03/06/2020,Baden-Württemberg,Freiburg im Breisgau,47.983333,7.85,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/20-weitere-bestaetigte-covid-19-infektionen/
+604,03/06/2020,Hamburg,Hamburg,53.565278,10.001389,https://www.hamburg.de/bgv/pressemeldungen/13682624/2020-03-06-bgv-coronavirus-aktuell/
+605,03/06/2020,Hamburg,Hamburg,53.565278,10.001389,https://www.hamburg.de/bgv/pressemeldungen/13682624/2020-03-06-bgv-coronavirus-aktuell/
+606,03/06/2020,Hamburg,Hamburg,53.565278,10.001389,https://www.hamburg.de/bgv/pressemeldungen/13682624/2020-03-06-bgv-coronavirus-aktuell/
+607,03/06/2020,Hamburg,Hamburg,53.565278,10.001389,https://www.hamburg.de/bgv/pressemeldungen/13682624/2020-03-06-bgv-coronavirus-aktuell/
+608,03/06/2020,Schleswig-Holstein,Pinneberg (district),53.75,9.75,https://www.schleswig-holstein.de/DE/Landesregierung/VIII/Presse/PI/2020/200306_VIII_Pinneberg_Corona.html
+609,03/06/2020,Rhineland-Palatinate,Kaiserslautern (district),49.5,7.67,https://msagd.rlp.de/de/service/presse/detail/news/News/detail/information-der-landesregierung-zum-aktuellen-stand-hinsichtlich-des-coronavirus-insgesamt-10-faelle/
+610,03/06/2020,Rhineland-Palatinate,Mainz,50,8.266667,https://msagd.rlp.de/de/service/presse/detail/news/News/detail/information-der-landesregierung-zum-aktuellen-stand-hinsichtlich-des-coronavirus-insgesamt-10-faelle/
+611,03/06/2020,Hesse,Hochtaunuskreis,50.283333,8.516667,https://soziales.hessen.de/sites/default/files/media/2020_03_06_bulletin_coronavirus_0.pdf
+612,03/06/2020,Hesse,Hochtaunuskreis,50.283333,8.516667,https://soziales.hessen.de/sites/default/files/media/2020_03_06_bulletin_coronavirus_0.pdf
+613,03/06/2020,Berlin,Pankow,52.566667,13.4,https://www.berlin.de/sen/gpg/service/presse/2020/pressemitteilung.904097.php
+614,03/06/2020,Berlin,Tempelhof-Schöneberg,52.466667,13.383333,https://www.berlin.de/sen/gpg/service/presse/2020/pressemitteilung.904097.php
+615,03/06/2020,Berlin,Charlottenburg-Wilmersdorf,52.5,13.283333,https://www.berlin.de/sen/gpg/service/presse/2020/pressemitteilung.904097.php
+616,03/06/2020,Berlin,Charlottenburg-Wilmersdorf,52.5,13.283333,https://www.berlin.de/sen/gpg/service/presse/2020/pressemitteilung.904097.php
+617,03/06/2020,Berlin,Reinickendorf,52.566667,13.333333,https://www.berlin.de/sen/gpg/service/presse/2020/pressemitteilung.904097.php
+618,03/06/2020,Berlin,Reinickendorf,52.566667,13.333333,https://www.berlin.de/sen/gpg/service/presse/2020/pressemitteilung.904097.php
+619,03/06/2020,Bremen,Bremen (state),53.075833,8.8075,https://www.senatspressestelle.bremen.de/detail.php?gsid=bremen146.c.331237.de&asl=bremen02.c.732.de
+620,03/06/2020,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte (district),53.5,13.083333,https://www.regierung-mv.de/Landesregierung/wm/Presse/?id=158311&processor=processor.sa.pressemitteilung
+621,03/06/2020,Saarland,Saarbrücken (district),49.25,7,https://www.saarland.de/SID-620EAEB3-537D65B0/59841_253937.htm
+622,03/06/2020,Saarland,Saarbrücken (district),49.25,7,https://www.regionalverband-saarbruecken.de/presse/nachricht-startseite/news/corona-erkrankung-einer-frau-aus-saarbruecken-bestaetigt/?tx_news_pi1[controller]=News&tx_news_pi1[action]=detail&cHash=a0eae3d9b60bd881735e663ccbff2316
+623,03/06/2020,Saxony,Leipzig,51.333333,12.383333,https://www.medienservice.sachsen.de/medien/news/234774
+624,03/06/2020,Bavaria,Nuremberg,49.45,11.083333,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-29-weitere-coronavirus-faelle-in-bayern-bestaetigt/
+625,03/06/2020,Bavaria,Nuremberg,49.45,11.083333,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-29-weitere-coronavirus-faelle-in-bayern-bestaetigt/
+626,03/06/2020,Bavaria,Nuremberg,49.45,11.083333,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-29-weitere-coronavirus-faelle-in-bayern-bestaetigt/
+627,03/06/2020,Bavaria,Nuremberg,49.45,11.083333,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-29-weitere-coronavirus-faelle-in-bayern-bestaetigt/
+628,03/06/2020,Bavaria,Erlangen-Höchstadt,49.67,10.83,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-29-weitere-coronavirus-faelle-in-bayern-bestaetigt/
+629,03/06/2020,Bavaria,Passau (district),48.5,13.33,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-29-weitere-coronavirus-faelle-in-bayern-bestaetigt/
+630,03/06/2020,Bavaria,Ebersberg (district),48.08,11.92,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-29-weitere-coronavirus-faelle-in-bayern-bestaetigt/
+631,03/06/2020,Bavaria,Ebersberg (district),48.08,11.92,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-29-weitere-coronavirus-faelle-in-bayern-bestaetigt/
+632,03/06/2020,Bavaria,Ebersberg (district),48.08,11.92,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-29-weitere-coronavirus-faelle-in-bayern-bestaetigt/
+633,03/06/2020,Bavaria,Freising (district),48.5,11.83,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-29-weitere-coronavirus-faelle-in-bayern-bestaetigt/
+634,03/06/2020,Bavaria,Freising (district),48.5,11.83,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-29-weitere-coronavirus-faelle-in-bayern-bestaetigt/
+635,03/06/2020,Bavaria,Freising (district),48.5,11.83,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-29-weitere-coronavirus-faelle-in-bayern-bestaetigt/
+636,03/06/2020,Bavaria,Miesbach (district),47.75,11.83,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-29-weitere-coronavirus-faelle-in-bayern-bestaetigt/
+637,03/06/2020,Bavaria,Munich (district),48,11.67,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-29-weitere-coronavirus-faelle-in-bayern-bestaetigt/
+638,03/06/2020,Bavaria,Munich (district),48,11.67,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-29-weitere-coronavirus-faelle-in-bayern-bestaetigt/
+639,03/06/2020,Bavaria,Munich (district),48,11.67,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-29-weitere-coronavirus-faelle-in-bayern-bestaetigt/
+640,03/06/2020,Bavaria,Munich (district),48,11.67,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-29-weitere-coronavirus-faelle-in-bayern-bestaetigt/
+641,03/06/2020,Bavaria,Munich (district),48,11.67,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-29-weitere-coronavirus-faelle-in-bayern-bestaetigt/
+642,03/06/2020,Bavaria,Munich (district),48,11.67,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-29-weitere-coronavirus-faelle-in-bayern-bestaetigt/
+643,03/06/2020,Bavaria,Munich (district),48,11.67,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-29-weitere-coronavirus-faelle-in-bayern-bestaetigt/
+644,03/06/2020,Bavaria,Munich (district),48,11.67,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-29-weitere-coronavirus-faelle-in-bayern-bestaetigt/
+645,03/06/2020,Bavaria,Munich (district),48,11.67,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-29-weitere-coronavirus-faelle-in-bayern-bestaetigt/
+646,03/06/2020,Bavaria,Munich (district),48,11.67,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-29-weitere-coronavirus-faelle-in-bayern-bestaetigt/
+647,03/06/2020,Bavaria,Munich (district),48,11.67,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-29-weitere-coronavirus-faelle-in-bayern-bestaetigt/
+648,03/06/2020,Bavaria,Augsburg (district),48.02,10.83,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-29-weitere-coronavirus-faelle-in-bayern-bestaetigt/
+649,03/06/2020,Bavaria,Oberallgäu,47.58,10.25,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-29-weitere-coronavirus-faelle-in-bayern-bestaetigt/
+650,03/06/2020,Bavaria,Würzburg (district),49.66,10,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-29-weitere-coronavirus-faelle-in-bayern-bestaetigt/
+651,03/06/2020,Bavaria,Würzburg (district),49.66,10,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-29-weitere-coronavirus-faelle-in-bayern-bestaetigt/
+652,03/06/2020,Bavaria,Würzburg (district),49.66,10,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-29-weitere-coronavirus-faelle-in-bayern-bestaetigt/
+653,03/06/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+654,03/06/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+655,03/06/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+656,03/06/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+657,03/06/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+658,03/06/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+659,03/06/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+660,03/06/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+661,03/06/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+662,03/06/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+663,03/06/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+664,03/06/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+665,03/06/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+666,03/06/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+667,03/06/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+668,03/06/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+669,03/06/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+670,03/06/2020,North Rhine-Westphalia,Cologne,50.936389,6.952778,https://www.koeln.de/koeln/nachrichten/lokales/coronavirus_in_koeln_bislang_19_infizierte_personen_1144487.html
+671,03/06/2020,North Rhine-Westphalia,Cologne,50.936389,6.952778,https://www.koeln.de/koeln/nachrichten/lokales/coronavirus_in_koeln_bislang_19_infizierte_personen_1144487.html
+672,03/06/2020,North Rhine-Westphalia,Cologne,50.936389,6.952778,https://www.koeln.de/koeln/nachrichten/lokales/coronavirus_in_koeln_bislang_19_infizierte_personen_1144487.html
+673,03/06/2020,North Rhine-Westphalia,Märkischer Kreis,51.225,7.614444,https://www.maerkischer-kreis.de/service/pressemeldungen/presseservice1039054.php
+674,03/06/2020,North Rhine-Westphalia,Aachen (district),50.75,6.25,http://www.aachen.de/DE/stadt_buerger/notfall_informationen/corona/pressemitteilungen/corona_0603.html
+675,03/06/2020,North Rhine-Westphalia,Aachen (district),50.75,6.25,http://www.aachen.de/DE/stadt_buerger/notfall_informationen/corona/pressemitteilungen/corona_0603.html
+676,03/06/2020,North Rhine-Westphalia,Aachen (district),50.75,6.25,http://www.aachen.de/DE/stadt_buerger/notfall_informationen/corona/pressemitteilungen/corona_0603.html
+677,03/06/2020,North Rhine-Westphalia,Aachen (district),50.75,6.25,http://www.aachen.de/DE/stadt_buerger/notfall_informationen/corona/pressemitteilungen/corona_0603.html
+678,03/06/2020,North Rhine-Westphalia,Aachen (district),50.75,6.25,http://www.aachen.de/DE/stadt_buerger/notfall_informationen/corona/pressemitteilungen/corona_0603.html
+679,03/06/2020,North Rhine-Westphalia,Aachen (district),50.75,6.25,http://www.aachen.de/DE/stadt_buerger/notfall_informationen/corona/pressemitteilungen/corona_0603.html
+680,03/06/2020,North Rhine-Westphalia,Aachen (district),50.75,6.25,http://www.aachen.de/DE/stadt_buerger/notfall_informationen/corona/pressemitteilungen/corona_0603.html
+681,03/06/2020,North Rhine-Westphalia,Aachen (district),50.75,6.25,http://www.aachen.de/DE/stadt_buerger/notfall_informationen/corona/pressemitteilungen/corona_0603.html
+682,03/06/2020,North Rhine-Westphalia,Mönchengladbach,51.2,6.433333,https://www.moenchengladbach.de/de/aktuell-aktiv/notfallmg/#accordion-20016082-6316
+683,03/06/2020,North Rhine-Westphalia,Mönchengladbach,51.2,6.433333,https://www.moenchengladbach.de/de/aktuell-aktiv/notfallmg/#accordion-20016082-6316
+684,03/06/2020,North Rhine-Westphalia,Oberbergischer Kreis,51.033333,7.516667,coming soon
+685,03/06/2020,North Rhine-Westphalia,Oberbergischer Kreis,51.033333,7.516667,coming soon
+686,03/06/2020,North Rhine-Westphalia,Rhein-Kreis Neuss,51.17,6.67,coming soon
+687,03/06/2020,North Rhine-Westphalia,Bochum,51.481944,7.215833,coming soon
+688,03/06/2020,North Rhine-Westphalia,Borken (district),51.916667,6.916667,http://www.presse-service.de/data.aspx/static/1038960.html
+689,03/06/2020,North Rhine-Westphalia,Borken (district),51.916667,6.916667,http://www.presse-service.de/data.aspx/static/1038960.html
+690,03/06/2020,North Rhine-Westphalia,Borken (district),51.916667,6.916667,http://www.presse-service.de/data.aspx/static/1038960.html
+691,03/06/2020,North Rhine-Westphalia,Borken (district),51.916667,6.916667,http://www.presse-service.de/data.aspx/static/1038960.html
+692,03/06/2020,North Rhine-Westphalia,Herford (district),52.166667,8.583333,"https://www.kreis-herford.de/Startseite/Erster-Corona-Virus-Fall-im-Kreis-Herford.php?object=tx,2807.1114&ModID=7&FID=2807.2388.1&NavID=2807.178"
+693,03/06/2020,North Rhine-Westphalia,Herford (district),52.166667,8.583333,"https://www.kreis-herford.de/Startseite/Erster-Corona-Virus-Fall-im-Kreis-Herford.php?object=tx,2807.1114&ModID=7&FID=2807.2388.1&NavID=2807.178"
+694,03/06/2020,North Rhine-Westphalia,Rhein-Sieg-Kreis,50.75,7.25,coming soon
+695,03/06/2020,North Rhine-Westphalia,Rhein-Sieg-Kreis,50.75,7.25,coming soon
+696,03/06/2020,North Rhine-Westphalia,Minden-Lübbecke,52.399167,8.717778,"https://www.minden-luebbecke.de/Startseite/Aktuelles/Zwei-bestätigte-Coronavirus-Fälle-COVID-19-im-Kreis-Minden-Lübbecke.php?object=tx,2832.14&ModID=7&FID=2832.2953.1&NavID=2832.538&La=1"
+697,03/06/2020,North Rhine-Westphalia,Paderborn (district),51.71,8.74,coming soon
+698,03/06/2020,North Rhine-Westphalia,Cologne,50.936389,6.952778,https://www.koeln.de/koeln/nachrichten/lokales/coronavirus_in_koeln_bislang_19_infizierte_personen_1144487.html
+699,03/06/2020,North Rhine-Westphalia,Aachen (district),50.75,6.25,http://www.aachen.de/DE/stadt_buerger/notfall_informationen/corona/pressemitteilungen/corona_0603.html
+700,03/06/2020,North Rhine-Westphalia,Aachen (district),50.75,6.25,http://www.aachen.de/DE/stadt_buerger/notfall_informationen/corona/pressemitteilungen/corona_0603.html
+701,03/06/2020,North Rhine-Westphalia,Aachen (district),50.75,6.25,http://www.aachen.de/DE/stadt_buerger/notfall_informationen/corona/pressemitteilungen/corona_0603.html
+702,03/06/2020,North Rhine-Westphalia,Aachen (district),50.75,6.25,http://www.aachen.de/DE/stadt_buerger/notfall_informationen/corona/pressemitteilungen/corona_0603.html
+703,03/06/2020,North Rhine-Westphalia,Aachen (district),50.75,6.25,http://www.aachen.de/DE/stadt_buerger/notfall_informationen/corona/pressemitteilungen/corona_0603.html
+704,03/06/2020,North Rhine-Westphalia,Aachen (district),50.75,6.25,http://www.aachen.de/DE/stadt_buerger/notfall_informationen/corona/pressemitteilungen/corona_0603.html
+705,03/06/2020,North Rhine-Westphalia,Aachen (district),50.75,6.25,http://www.aachen.de/DE/stadt_buerger/notfall_informationen/corona/pressemitteilungen/corona_0603.html
+706,03/06/2020,North Rhine-Westphalia,Aachen (district),50.75,6.25,http://www.aachen.de/DE/stadt_buerger/notfall_informationen/corona/pressemitteilungen/corona_0603.html
+707,03/06/2020,North Rhine-Westphalia,Coesfeld (district),51.866667,7.383333,https://www.kreis-coesfeld.de/themen-projekte/gesundheit/informationen-zum-coronavirus/presse-coronavirus-einzelansicht.html?tx_news_pi1%5Bnews%5D=6353&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=c60d9aada5e8ded1b1b45855a69f3f6a
+708,03/06/2020,North Rhine-Westphalia,Coesfeld (district),51.866667,7.383333,https://www.kreis-coesfeld.de/themen-projekte/gesundheit/informationen-zum-coronavirus/presse-coronavirus-einzelansicht.html?tx_news_pi1%5Bnews%5D=6356&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=c2d6a3018ed11de7eae49eae82a7df42
+709,03/06/2020,North Rhine-Westphalia,Essen,51.458069,7.014761,https://www.essen.de/meldungen/pressemeldung_1362491.de.html
+710,03/06/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+711,03/06/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+712,03/06/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+713,03/06/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+714,03/06/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+715,03/06/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
+716,03/06/2020,North Rhine-Westphalia,Minden-Lübbecke,52.399167,8.717778,"https://www.minden-luebbecke.de/Startseite/Aktuelles/Zwei-bestätigte-Coronavirus-Fälle-COVID-19-im-Kreis-Minden-Lübbecke.php?object=tx,2832.14&ModID=7&FID=2832.2953.1&NavID=2832.538&La=1"
