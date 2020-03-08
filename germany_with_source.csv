@@ -124,7 +124,7 @@ No,Date,Federated state,District,Latitude,Longitude,Source
 123,03/01/2020,Bavaria,Middle Franconia,49.326,10.8462,https://www.stmgp.bayern.de/presse/aktuelle-informationen-zur-coronavirus-lage-in-bayern-bayerisches-gesundheitsministerium-18/
 124,03/01/2020,Bavaria,Freising (district),48.5,11.83,https://www.stmgp.bayern.de/presse/aktuelle-informationen-zur-coronavirus-lage-in-bayern-bayerisches-gesundheitsministerium-18/
 125,03/01/2020,Bavaria,Starnberg (district),48,11.33,https://www.stmgp.bayern.de/presse/aktuelle-informationen-zur-coronavirus-lage-in-bayern-bayerisches-gesundheitsministerium-18/
-126,03/01/2020,Bavaria,Ostalgäu,47.75,10.58,https://www.stmgp.bayern.de/presse/aktuelle-informationen-zur-coronavirus-lage-in-bayern-bayerisches-gesundheitsministerium-18/
+126,03/01/2020,Bavaria,Ostallgäu,47.75,10.58,https://www.stmgp.bayern.de/presse/aktuelle-informationen-zur-coronavirus-lage-in-bayern-bayerisches-gesundheitsministerium-18/
 127,03/01/2020,North Rhine-Westphalia,Münster,51.9625,7.625556,https://www.muenster.de/stadt/presseservice/pressemeldungen/web/frontend/output/standard/design/standard/page/1/show/1038377
 128,03/01/2020,Schleswig-Holstein,Herzogtum Lauenburg,53.583333,10.666667,https://www.schleswig-holstein.de/DE/Landesregierung/VIII/Presse/PI/2020/200301_VIII_Herzogtum_Lauenburg_Corona.html
 129,03/01/2020,Baden-Württemberg,Freiburg im Breisgau,47.983333,7.85,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/zahl-der-bestaetigten-corona-faelle-in-baden-wuerttemberg-steigt-auf-16/
@@ -148,7 +148,7 @@ No,Date,Federated state,District,Latitude,Longitude,Source
 147,03/02/2020,Bavaria,Munich (district),48,11.67,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-bis-montagvormittag-fuenf-neue-coronavirus-faelle-in/
 148,03/02/2020,Bavaria,Roth (district),49.25,11.08,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-bis-montagvormittag-fuenf-neue-coronavirus-faelle-in/
 149,03/02/2020,Bavaria,Freising (district),48.5,11.83,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-bis-montagvormittag-fuenf-neue-coronavirus-faelle-in/
-150,03/02/2020,Bavaria,Ostalgäu,47.75,10.58,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-bis-montagvormittag-fuenf-neue-coronavirus-faelle-in/
+150,03/02/2020,Bavaria,Ostallgäu,47.75,10.58,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-bis-montagvormittag-fuenf-neue-coronavirus-faelle-in/
 151,03/02/2020,Hamburg,Hamburg,53.565278,10.001389,https://www.hamburg.de/bgv/pressemeldungen/13659432/2020-03-02-bgv-neuer-stand-coronavirus/
 152,03/02/2020,Bavaria,Bayreuth (district),49.92,11.5,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-zwei-weitere-coronavirus-faelle-in-bayern-bestaetigt/
 153,03/02/2020,Bavaria,Bayreuth (district),49.92,11.5,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-zwei-weitere-coronavirus-faelle-in-bayern-bestaetigt/
@@ -191,7 +191,7 @@ No,Date,Federated state,District,Latitude,Longitude,Source
 190,03/03/2020,North Rhine-Westphalia,Oberbergischer Kreis,51.033333,7.516667,http://www.oberbergischer-kreis.de/cms200/aktuelles/pressemitteilungen/artikel/68544/index.shtml
 191,03/03/2020,Baden-Württemberg,Zollernalbkreis,48.292444,8.925231,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/zwei-weitere-bestaetigte-infektionen-mit-dem-coronavirus/
 192,03/03/2020,Baden-Württemberg,Ulm,48.401082,9.987608,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/zwei-weitere-bestaetigte-infektionen-mit-dem-coronavirus/
-193,03/03/2020,Schleswig-Holstein,Ammersbek,53.7072526,10.2144039,https://www.schleswig-holstein.de/DE/Landesregierung/VIII/Presse/PI/2020/200303_VIII_Stormarn_Corona.html
+193,03/03/2020,Schleswig-Holstein,Stormarn (district),53.75,10.33,https://www.schleswig-holstein.de/DE/Landesregierung/VIII/Presse/PI/2020/200303_VIII_Stormarn_Corona.html
 194,03/03/2020,Lower Saxony,Ammerland,53.25,7.92,https://www.ms.niedersachsen.de/startseite/aktuelles/presseinformationen/weiterer-corona-fall-in-niedersachsen-oldenburg-meldet-patienten-mit-bestatigter-corona-infektion-aus-dem-ammerland-185653.html
 195,03/03/2020,Hesse,Main-Kinzig-Kreis,50.25,9.3,https://soziales.hessen.de/sites/default/files/media/hsm/2020_03_03_bulletin_coronavirus.pdf
 196,03/03/2020,Rhineland-Palatinate,Kaiserslautern (district),49.5,7.67,https://msagd.rlp.de/de/service/presse/detail/news/News/detail/information-der-landesregierung-zum-aktuellen-stand-hinsichtlich-des-coronavirus-dritter-fall-in-rh/
@@ -227,7 +227,7 @@ No,Date,Federated state,District,Latitude,Longitude,Source
 226,03/04/2020,Bavaria,Freising (district),48.5,11.83,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-elf-weitere-coronavirus-faelle-in-bayern-bestaetigt/
 227,03/04/2020,Bavaria,Freising (district),48.5,11.83,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-elf-weitere-coronavirus-faelle-in-bayern-bestaetigt/
 228,03/04/2020,Bavaria,Augsburg (district),48.02,10.83,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-elf-weitere-coronavirus-faelle-in-bayern-bestaetigt/
-229,03/04/2020,Bavaria,Ostalgäu,47.75,10.58,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-elf-weitere-coronavirus-faelle-in-bayern-bestaetigt/
+229,03/04/2020,Bavaria,Ostallgäu,47.75,10.58,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-elf-weitere-coronavirus-faelle-in-bayern-bestaetigt/
 230,03/04/2020,Bavaria,Lindau (district),47.58,9.75,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-elf-weitere-coronavirus-faelle-in-bayern-bestaetigt/
 231,03/04/2020,Baden-Württemberg,Freiburg im Breisgau,47.983333,7.85,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/sieben-weitere-bestaetigte-infektionen-mit-covid-19/
 232,03/04/2020,Baden-Württemberg,Freiburg im Breisgau,47.983333,7.85,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/sieben-weitere-bestaetigte-infektionen-mit-covid-19/
@@ -973,3 +973,94 @@ No,Date,Federated state,District,Latitude,Longitude,Source
 972,03/08/2020,Hesse,Offenbach (district),50.018236,8.785651,https://soziales.hessen.de/sites/default/files/media/2020_03_08_bulletin_coronavirus.pdf
 973,03/08/2020,Lower Saxony,Hildesheim (district),52.08,9.92,"https://www.landkreishildesheim.de/-Landkreis-Jetzt-auch-im-Landkreis-zwei-laborbestätigte-Coronafälle.php?object=tx,2829.5&ModID=7&mobile=off&FID=2829.3084.1"
 974,03/08/2020,Lower Saxony,Hildesheim (district),52.08,9.92,"https://www.landkreishildesheim.de/-Landkreis-Jetzt-auch-im-Landkreis-zwei-laborbestätigte-Coronafälle.php?object=tx,2829.5&ModID=7&mobile=off&FID=2829.3084.1"
+975,03/08/2020,Baden-Württemberg,Main-Tauber-Kreis,49.57,9.71,"https://www.main-tauber-kreis.de/Landratsamt/Themen-und-Projekte/Coronavirus/Weiterer-Fall-von-Coronavirus-Infektion-bestätigt.php?object=tx,2894.6&ModID=7&FID=2894.22489.1&NavID=2894.1642&La=1"
+976,03/08/2020,Hesse,Kassel (district),51.42,9.5,coming soon
+977,03/08/2020,Hesse,Bergstraße (district),49.640712,8.64433,coming soon
+978,03/08/2020,Bavaria,Augsburg (district),48.02,10.83,https://www.stmgp.bayern.de/presse/bayerns-coronavirus-krisenstab-unterstuetzt-spahn-vorschlag-zu-grossveranstaltungen-67/
+979,03/08/2020,Bavaria,Augsburg,48.366667,10.9,https://www.stmgp.bayern.de/presse/bayerns-coronavirus-krisenstab-unterstuetzt-spahn-vorschlag-zu-grossveranstaltungen-67/
+980,03/08/2020,Bavaria,Oberallgäu,47.58,10.25,https://www.stmgp.bayern.de/presse/bayerns-coronavirus-krisenstab-unterstuetzt-spahn-vorschlag-zu-grossveranstaltungen-67/
+981,03/08/2020,Bavaria,Oberallgäu,47.58,10.25,https://www.stmgp.bayern.de/presse/bayerns-coronavirus-krisenstab-unterstuetzt-spahn-vorschlag-zu-grossveranstaltungen-67/
+982,03/08/2020,Bavaria,Oberallgäu,47.58,10.25,https://www.stmgp.bayern.de/presse/bayerns-coronavirus-krisenstab-unterstuetzt-spahn-vorschlag-zu-grossveranstaltungen-67/
+983,03/08/2020,Bavaria,Freising (district),48.5,11.83,https://www.stmgp.bayern.de/presse/bayerns-coronavirus-krisenstab-unterstuetzt-spahn-vorschlag-zu-grossveranstaltungen-67/
+984,03/08/2020,Bavaria,Freising (district),48.5,11.83,https://www.stmgp.bayern.de/presse/bayerns-coronavirus-krisenstab-unterstuetzt-spahn-vorschlag-zu-grossveranstaltungen-67/
+985,03/08/2020,Bavaria,Freising (district),48.5,11.83,https://www.stmgp.bayern.de/presse/bayerns-coronavirus-krisenstab-unterstuetzt-spahn-vorschlag-zu-grossveranstaltungen-67/
+986,03/08/2020,Bavaria,Freising (district),48.5,11.83,https://www.stmgp.bayern.de/presse/bayerns-coronavirus-krisenstab-unterstuetzt-spahn-vorschlag-zu-grossveranstaltungen-67/
+987,03/08/2020,Bavaria,Freising (district),48.5,11.83,https://www.stmgp.bayern.de/presse/bayerns-coronavirus-krisenstab-unterstuetzt-spahn-vorschlag-zu-grossveranstaltungen-67/
+988,03/08/2020,Bavaria,Freising (district),48.5,11.83,https://www.stmgp.bayern.de/presse/bayerns-coronavirus-krisenstab-unterstuetzt-spahn-vorschlag-zu-grossveranstaltungen-67/
+989,03/08/2020,Bavaria,Freising (district),48.5,11.83,https://www.stmgp.bayern.de/presse/bayerns-coronavirus-krisenstab-unterstuetzt-spahn-vorschlag-zu-grossveranstaltungen-67/
+990,03/08/2020,Bavaria,Starnberg (district),48,11.33,https://www.stmgp.bayern.de/presse/bayerns-coronavirus-krisenstab-unterstuetzt-spahn-vorschlag-zu-grossveranstaltungen-67/
+991,03/08/2020,Bavaria,Starnberg (district),48,11.33,https://www.stmgp.bayern.de/presse/bayerns-coronavirus-krisenstab-unterstuetzt-spahn-vorschlag-zu-grossveranstaltungen-67/
+992,03/08/2020,Bavaria,Starnberg (district),48,11.33,https://www.stmgp.bayern.de/presse/bayerns-coronavirus-krisenstab-unterstuetzt-spahn-vorschlag-zu-grossveranstaltungen-67/
+993,03/08/2020,Bavaria,Starnberg (district),48,11.33,https://www.stmgp.bayern.de/presse/bayerns-coronavirus-krisenstab-unterstuetzt-spahn-vorschlag-zu-grossveranstaltungen-67/
+994,03/08/2020,Bavaria,Starnberg (district),48,11.33,https://www.stmgp.bayern.de/presse/bayerns-coronavirus-krisenstab-unterstuetzt-spahn-vorschlag-zu-grossveranstaltungen-67/
+995,03/08/2020,Bavaria,Dachau (district),48.25,11.42,https://www.stmgp.bayern.de/presse/bayerns-coronavirus-krisenstab-unterstuetzt-spahn-vorschlag-zu-grossveranstaltungen-67/
+996,03/08/2020,Bavaria,Dachau (district),48.25,11.42,https://www.stmgp.bayern.de/presse/bayerns-coronavirus-krisenstab-unterstuetzt-spahn-vorschlag-zu-grossveranstaltungen-67/
+997,03/08/2020,Bavaria,Dachau (district),48.25,11.42,https://www.stmgp.bayern.de/presse/bayerns-coronavirus-krisenstab-unterstuetzt-spahn-vorschlag-zu-grossveranstaltungen-67/
+998,03/08/2020,Bavaria,Pfaffenhofen (district),48.5,11.5,https://www.stmgp.bayern.de/presse/bayerns-coronavirus-krisenstab-unterstuetzt-spahn-vorschlag-zu-grossveranstaltungen-67/
+999,03/08/2020,Bavaria,Garmisch-Partenkirchen (district),47.58,11.17,https://www.stmgp.bayern.de/presse/bayerns-coronavirus-krisenstab-unterstuetzt-spahn-vorschlag-zu-grossveranstaltungen-67/
+1000,03/08/2020,Bavaria,Rosenheim (district),47.92,12.17,https://www.stmgp.bayern.de/presse/bayerns-coronavirus-krisenstab-unterstuetzt-spahn-vorschlag-zu-grossveranstaltungen-67/
+1001,03/08/2020,Bavaria,Munich (district),48,11.67,https://www.stmgp.bayern.de/presse/bayerns-coronavirus-krisenstab-unterstuetzt-spahn-vorschlag-zu-grossveranstaltungen-67/
+1002,03/08/2020,Bavaria,Munich (district),48,11.67,https://www.stmgp.bayern.de/presse/bayerns-coronavirus-krisenstab-unterstuetzt-spahn-vorschlag-zu-grossveranstaltungen-67/
+1003,03/08/2020,Bavaria,Munich (district),48,11.67,https://www.stmgp.bayern.de/presse/bayerns-coronavirus-krisenstab-unterstuetzt-spahn-vorschlag-zu-grossveranstaltungen-67/
+1004,03/08/2020,Bavaria,Munich (district),48,11.67,https://www.stmgp.bayern.de/presse/bayerns-coronavirus-krisenstab-unterstuetzt-spahn-vorschlag-zu-grossveranstaltungen-67/
+1005,03/08/2020,Bavaria,Regensburg (district),49.08,12.17,https://www.stmgp.bayern.de/presse/bayerns-coronavirus-krisenstab-unterstuetzt-spahn-vorschlag-zu-grossveranstaltungen-67/
+1006,03/08/2020,Bavaria,Regensburg (district),49.08,12.17,https://www.stmgp.bayern.de/presse/bayerns-coronavirus-krisenstab-unterstuetzt-spahn-vorschlag-zu-grossveranstaltungen-67/
+1007,03/08/2020,Bavaria,Schwandorf (district),49.33,12.17,https://www.stmgp.bayern.de/presse/bayerns-coronavirus-krisenstab-unterstuetzt-spahn-vorschlag-zu-grossveranstaltungen-67/
+1008,03/08/2020,Bavaria,Dingolfing-Landau,48.67,12.58,https://www.stmgp.bayern.de/presse/bayerns-coronavirus-krisenstab-unterstuetzt-spahn-vorschlag-zu-grossveranstaltungen-67/
+1009,03/08/2020,Bavaria,Kelheim (district),48.83,11.83,https://www.stmgp.bayern.de/presse/bayerns-coronavirus-krisenstab-unterstuetzt-spahn-vorschlag-zu-grossveranstaltungen-67/
+1010,03/08/2020,Bavaria,Munich,48.137222,11.575556,https://www.stmgp.bayern.de/presse/bayerns-coronavirus-krisenstab-unterstuetzt-spahn-vorschlag-zu-grossveranstaltungen-67/
+1011,03/08/2020,Bavaria,Munich,48.137222,11.575556,https://www.stmgp.bayern.de/presse/bayerns-coronavirus-krisenstab-unterstuetzt-spahn-vorschlag-zu-grossveranstaltungen-67/
+1012,03/08/2020,Bavaria,Munich,48.137222,11.575556,https://www.stmgp.bayern.de/presse/bayerns-coronavirus-krisenstab-unterstuetzt-spahn-vorschlag-zu-grossveranstaltungen-67/
+1013,03/08/2020,Bavaria,Munich,48.137222,11.575556,https://www.stmgp.bayern.de/presse/bayerns-coronavirus-krisenstab-unterstuetzt-spahn-vorschlag-zu-grossveranstaltungen-67/
+1014,03/08/2020,Bavaria,Munich,48.137222,11.575556,https://www.stmgp.bayern.de/presse/bayerns-coronavirus-krisenstab-unterstuetzt-spahn-vorschlag-zu-grossveranstaltungen-67/
+1015,03/08/2020,Bavaria,Munich,48.137222,11.575556,https://www.stmgp.bayern.de/presse/bayerns-coronavirus-krisenstab-unterstuetzt-spahn-vorschlag-zu-grossveranstaltungen-67/
+1016,03/08/2020,Bavaria,Munich,48.137222,11.575556,https://www.stmgp.bayern.de/presse/bayerns-coronavirus-krisenstab-unterstuetzt-spahn-vorschlag-zu-grossveranstaltungen-67/
+1017,03/08/2020,Bavaria,Munich,48.137222,11.575556,https://www.stmgp.bayern.de/presse/bayerns-coronavirus-krisenstab-unterstuetzt-spahn-vorschlag-zu-grossveranstaltungen-67/
+1018,03/08/2020,Bavaria,Munich,48.137222,11.575556,https://www.stmgp.bayern.de/presse/bayerns-coronavirus-krisenstab-unterstuetzt-spahn-vorschlag-zu-grossveranstaltungen-67/
+1019,03/08/2020,Bavaria,Munich,48.137222,11.575556,https://www.stmgp.bayern.de/presse/bayerns-coronavirus-krisenstab-unterstuetzt-spahn-vorschlag-zu-grossveranstaltungen-67/
+1020,03/08/2020,Bavaria,Munich,48.137222,11.575556,https://www.stmgp.bayern.de/presse/bayerns-coronavirus-krisenstab-unterstuetzt-spahn-vorschlag-zu-grossveranstaltungen-67/
+1021,03/08/2020,Bavaria,Munich,48.137222,11.575556,https://www.stmgp.bayern.de/presse/bayerns-coronavirus-krisenstab-unterstuetzt-spahn-vorschlag-zu-grossveranstaltungen-67/
+1022,03/08/2020,Bavaria,Munich,48.137222,11.575556,https://www.stmgp.bayern.de/presse/bayerns-coronavirus-krisenstab-unterstuetzt-spahn-vorschlag-zu-grossveranstaltungen-67/
+1023,03/08/2020,Bavaria,Munich,48.137222,11.575556,https://www.stmgp.bayern.de/presse/bayerns-coronavirus-krisenstab-unterstuetzt-spahn-vorschlag-zu-grossveranstaltungen-67/
+1024,03/08/2020,Bavaria,Munich,48.137222,11.575556,https://www.stmgp.bayern.de/presse/bayerns-coronavirus-krisenstab-unterstuetzt-spahn-vorschlag-zu-grossveranstaltungen-67/
+1025,03/08/2020,Bavaria,Munich,48.137222,11.575556,https://www.stmgp.bayern.de/presse/bayerns-coronavirus-krisenstab-unterstuetzt-spahn-vorschlag-zu-grossveranstaltungen-67/
+1026,03/08/2020,Bavaria,Munich,48.137222,11.575556,https://www.stmgp.bayern.de/presse/bayerns-coronavirus-krisenstab-unterstuetzt-spahn-vorschlag-zu-grossveranstaltungen-67/
+1027,03/08/2020,Bavaria,Munich,48.137222,11.575556,https://www.stmgp.bayern.de/presse/bayerns-coronavirus-krisenstab-unterstuetzt-spahn-vorschlag-zu-grossveranstaltungen-67/
+1028,03/08/2020,Bavaria,Munich,48.137222,11.575556,https://www.stmgp.bayern.de/presse/bayerns-coronavirus-krisenstab-unterstuetzt-spahn-vorschlag-zu-grossveranstaltungen-67/
+1029,03/08/2020,Bavaria,Munich,48.137222,11.575556,https://www.stmgp.bayern.de/presse/bayerns-coronavirus-krisenstab-unterstuetzt-spahn-vorschlag-zu-grossveranstaltungen-67/
+1030,03/08/2020,Bavaria,Munich,48.137222,11.575556,https://www.stmgp.bayern.de/presse/bayerns-coronavirus-krisenstab-unterstuetzt-spahn-vorschlag-zu-grossveranstaltungen-67/
+1031,03/08/2020,Bavaria,Munich,48.137222,11.575556,https://www.stmgp.bayern.de/presse/bayerns-coronavirus-krisenstab-unterstuetzt-spahn-vorschlag-zu-grossveranstaltungen-67/
+1032,03/08/2020,Bavaria,Munich,48.137222,11.575556,https://www.stmgp.bayern.de/presse/bayerns-coronavirus-krisenstab-unterstuetzt-spahn-vorschlag-zu-grossveranstaltungen-67/
+1033,03/08/2020,Bavaria,Munich,48.137222,11.575556,https://www.stmgp.bayern.de/presse/bayerns-coronavirus-krisenstab-unterstuetzt-spahn-vorschlag-zu-grossveranstaltungen-67/
+1034,03/08/2020,Bavaria,Munich,48.137222,11.575556,https://www.stmgp.bayern.de/presse/bayerns-coronavirus-krisenstab-unterstuetzt-spahn-vorschlag-zu-grossveranstaltungen-67/
+1035,03/08/2020,Bavaria,Munich,48.137222,11.575556,https://www.stmgp.bayern.de/presse/bayerns-coronavirus-krisenstab-unterstuetzt-spahn-vorschlag-zu-grossveranstaltungen-67/
+1036,03/08/2020,Bavaria,Munich,48.137222,11.575556,https://www.stmgp.bayern.de/presse/bayerns-coronavirus-krisenstab-unterstuetzt-spahn-vorschlag-zu-grossveranstaltungen-67/
+1037,03/08/2020,Bavaria,Munich,48.137222,11.575556,https://www.stmgp.bayern.de/presse/bayerns-coronavirus-krisenstab-unterstuetzt-spahn-vorschlag-zu-grossveranstaltungen-67/
+1038,03/08/2020,Bavaria,Munich,48.137222,11.575556,https://www.stmgp.bayern.de/presse/bayerns-coronavirus-krisenstab-unterstuetzt-spahn-vorschlag-zu-grossveranstaltungen-67/
+1039,03/08/2020,Bavaria,Munich,48.137222,11.575556,https://www.stmgp.bayern.de/presse/bayerns-coronavirus-krisenstab-unterstuetzt-spahn-vorschlag-zu-grossveranstaltungen-67/
+1040,03/08/2020,Bavaria,Munich,48.137222,11.575556,https://www.stmgp.bayern.de/presse/bayerns-coronavirus-krisenstab-unterstuetzt-spahn-vorschlag-zu-grossveranstaltungen-67/
+1041,03/08/2020,Bavaria,Munich,48.137222,11.575556,https://www.stmgp.bayern.de/presse/bayerns-coronavirus-krisenstab-unterstuetzt-spahn-vorschlag-zu-grossveranstaltungen-67/
+1042,03/08/2020,Bavaria,Munich,48.137222,11.575556,https://www.stmgp.bayern.de/presse/bayerns-coronavirus-krisenstab-unterstuetzt-spahn-vorschlag-zu-grossveranstaltungen-67/
+1043,03/08/2020,Bavaria,Munich,48.137222,11.575556,https://www.stmgp.bayern.de/presse/bayerns-coronavirus-krisenstab-unterstuetzt-spahn-vorschlag-zu-grossveranstaltungen-67/
+1044,03/08/2020,Bavaria,Munich,48.137222,11.575556,https://www.stmgp.bayern.de/presse/bayerns-coronavirus-krisenstab-unterstuetzt-spahn-vorschlag-zu-grossveranstaltungen-67/
+1045,03/08/2020,Baden-Württemberg,Emmendingen (district),48.1,7.8,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/17-weitere-covid-19-faelle-in-baden-wuerttemberg/
+1046,03/08/2020,Baden-Württemberg,Emmendingen (district),48.1,7.8,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/17-weitere-covid-19-faelle-in-baden-wuerttemberg/
+1047,03/08/2020,Baden-Württemberg,Emmendingen (district),48.1,7.8,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/17-weitere-covid-19-faelle-in-baden-wuerttemberg/
+1048,03/08/2020,Baden-Württemberg,Emmendingen (district),48.1,7.8,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/17-weitere-covid-19-faelle-in-baden-wuerttemberg/
+1049,03/08/2020,Baden-Württemberg,Emmendingen (district),48.1,7.8,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/17-weitere-covid-19-faelle-in-baden-wuerttemberg/
+1050,03/08/2020,Baden-Württemberg,Emmendingen (district),48.1,7.8,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/17-weitere-covid-19-faelle-in-baden-wuerttemberg/
+1051,03/08/2020,Baden-Württemberg,Emmendingen (district),48.1,7.8,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/17-weitere-covid-19-faelle-in-baden-wuerttemberg/
+1052,03/08/2020,Baden-Württemberg,Emmendingen (district),48.1,7.8,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/17-weitere-covid-19-faelle-in-baden-wuerttemberg/
+1053,03/08/2020,Baden-Württemberg,Emmendingen (district),48.1,7.8,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/17-weitere-covid-19-faelle-in-baden-wuerttemberg/
+1054,03/08/2020,Baden-Württemberg,Rastatt (district),48.8,8.27,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/17-weitere-covid-19-faelle-in-baden-wuerttemberg/
+1055,03/08/2020,Baden-Württemberg,Ravensburg (district),47.82,9.8,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/17-weitere-covid-19-faelle-in-baden-wuerttemberg/
+1056,03/08/2020,Baden-Württemberg,Rhein-Neckar-Kreis,49.366667,8.733333,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/17-weitere-covid-19-faelle-in-baden-wuerttemberg/
+1057,03/08/2020,Baden-Württemberg,Rhein-Neckar-Kreis,49.366667,8.733333,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/17-weitere-covid-19-faelle-in-baden-wuerttemberg/
+1058,03/08/2020,Baden-Württemberg,Rhein-Neckar-Kreis,49.366667,8.733333,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/17-weitere-covid-19-faelle-in-baden-wuerttemberg/
+1059,03/08/2020,Baden-Württemberg,Ortenaukreis,48.416667,8,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/17-weitere-covid-19-faelle-in-baden-wuerttemberg/
+1060,03/08/2020,Baden-Württemberg,Rems-Murr-Kreis,48.916667,9.533333,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/17-weitere-covid-19-faelle-in-baden-wuerttemberg/
+1061,03/08/2020,Baden-Württemberg,Stuttgart,48.783333,9.183333,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/17-weitere-covid-19-faelle-in-baden-wuerttemberg/
+1062,03/08/2020,Baden-Württemberg,Hohenlohe (district),49.27,9.62,https://www.hohenlohekreis.de/index.php?id=291&publish[id]=1104801&publish[start]=
+1063,03/08/2020,Saxony,Bautzen (district),51.283333,14.266667,https://www.medienservice.sachsen.de/medien/news/234837
+1064,03/08/2020,Saxony,Bautzen (district),51.283333,14.266667,https://www.medienservice.sachsen.de/medien/news/234837
+1065,03/08/2020,Saxony,Bautzen (district),51.283333,14.266667,https://www.medienservice.sachsen.de/medien/news/234837
