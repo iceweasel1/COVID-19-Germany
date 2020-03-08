@@ -240,7 +240,7 @@ No,Date,Federated state,District,Latitude,Longitude,Source
 239,03/04/2020,Bavaria,Munich (district),48,11.67,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-vier-weitere-coronavirus-faelle-in-bayern-bestaetigt/
 240,03/04/2020,Bavaria,Freising (district),48.5,11.83,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-vier-weitere-coronavirus-faelle-in-bayern-bestaetigt/
 241,03/04/2020,Bavaria,Nuremberg,49.45,11.083333,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-vier-weitere-coronavirus-faelle-in-bayern-bestaetigt/
-242,03/04/2020,Rhineland-Palatinate,Germersheim (district),49.08,8.25,https://msagd.rlp.de/de/service/presse/detail/news/News/detail/information-der-landesregierung-zum-aktuellen-stand-hinsichtlich-des-coronavirus-insgesamt-7-faelle/
+242,03/04/2020,Rhineland-Palatinate,Bad Dürkheim (district),49.5,8.17,https://msagd.rlp.de/de/service/presse/detail/news/News/detail/information-der-landesregierung-zum-aktuellen-stand-hinsichtlich-des-coronavirus-insgesamt-7-faelle/
 243,03/04/2020,Rhineland-Palatinate,Germersheim (district),49.08,8.25,https://msagd.rlp.de/de/service/presse/detail/news/News/detail/information-der-landesregierung-zum-aktuellen-stand-hinsichtlich-des-coronavirus-insgesamt-7-faelle/
 244,03/04/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
 245,03/04/2020,Hamburg,Hamburg,53.565278,10.001389,https://www.hamburg.de/bgv/pressemeldungen/13676660/2020-03-04-bgv-coronavirus-aktuell/
@@ -398,7 +398,7 @@ No,Date,Federated state,District,Latitude,Longitude,Source
 397,03/05/2020,Baden-Württemberg,Ravensburg (district),47.82,9.8,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/acht-weitere-bestaetigte-covid-19-infektionen-1/
 398,03/05/2020,Baden-Württemberg,Bodenseekreis,47.733333,9.383333,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/acht-weitere-bestaetigte-covid-19-infektionen-1/
 399,03/05/2020,Baden-Württemberg,Stuttgart,48.783333,9.183333,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/acht-weitere-bestaetigte-covid-19-infektionen-1/
-400,05/03/2020,Schleswig-Holstein,Dithmarschen,54.08,9.08,"https://www.dithmarschen.de/Quicknavigation/Startseite/Bestätigter-Corona-Fall-bei-einer-Mitarbeiterin-der-Westküstenkliniken-in-Heide.php?object=tx,2046.1&ModID=7&FID=2046.8072.1&NavID=2046.1&NavID=2046.15"
+400,03/05/2020,Schleswig-Holstein,Dithmarschen,54.08,9.08,"https://www.dithmarschen.de/Quicknavigation/Startseite/Bestätigter-Corona-Fall-bei-einer-Mitarbeiterin-der-Westküstenkliniken-in-Heide.php?object=tx,2046.1&ModID=7&FID=2046.8072.1&NavID=2046.1&NavID=2046.15"
 401,03/05/2020,Hesse,Waldeck-Frankenberg,51.269298,8.856665,https://twitter.com/StM_Klose/status/1235502408471654400
 402,03/05/2020,Hamburg,Hamburg,53.565278,10.001389,https://www.hamburg.de/bgv/pressemeldungen/13679440/2020-03-05-bgv-coronavirus-aktuell/
 403,03/05/2020,Hamburg,Hamburg,53.565278,10.001389,https://www.hamburg.de/bgv/pressemeldungen/13679440/2020-03-05-bgv-coronavirus-aktuell/
@@ -715,3 +715,261 @@ No,Date,Federated state,District,Latitude,Longitude,Source
 714,03/06/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
 715,03/06/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5142
 716,03/06/2020,North Rhine-Westphalia,Minden-Lübbecke,52.399167,8.717778,"https://www.minden-luebbecke.de/Startseite/Aktuelles/Zwei-bestätigte-Coronavirus-Fälle-COVID-19-im-Kreis-Minden-Lübbecke.php?object=tx,2832.14&ModID=7&FID=2832.2953.1&NavID=2832.538&La=1"
+717,03/07/2020,Hamburg,Hamburg,53.565278,10.001389,https://www.hamburg.de/bgv/pressemeldungen/13684676/2020-03-07-bgv-coronavirus-aktuell/
+718,03/07/2020,Rhineland-Palatinate,Koblenz,50.359722,7.597778,https://msagd.rlp.de/de/service/presse/detail/news/News/detail/information-der-landesregierung-zum-aktuellen-stand-hinsichtlich-des-coronavirus-seit-gestern-drei/
+719,03/07/2020,Rhineland-Palatinate,Bad Dürkheim (district),49.5,8.17,https://msagd.rlp.de/de/service/presse/detail/news/News/detail/information-der-landesregierung-zum-aktuellen-stand-hinsichtlich-des-coronavirus-seit-gestern-drei/
+720,03/07/2020,Rhineland-Palatinate,Bad Dürkheim (district),49.5,8.17,https://msagd.rlp.de/de/service/presse/detail/news/News/detail/information-der-landesregierung-zum-aktuellen-stand-hinsichtlich-des-coronavirus-seit-gestern-drei/
+721,03/07/2020,Baden-Württemberg,Main-Tauber-Kreis,49.57,9.71,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/54-weitere-covid-19-faelle-in-baden-wuerttemberg/
+722,03/07/2020,Baden-Württemberg,Main-Tauber-Kreis,49.57,9.71,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/54-weitere-covid-19-faelle-in-baden-wuerttemberg/
+723,03/07/2020,Baden-Württemberg,Main-Tauber-Kreis,49.57,9.71,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/54-weitere-covid-19-faelle-in-baden-wuerttemberg/
+724,03/07/2020,Baden-Württemberg,Main-Tauber-Kreis,49.57,9.71,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/54-weitere-covid-19-faelle-in-baden-wuerttemberg/
+725,03/07/2020,Baden-Württemberg,Main-Tauber-Kreis,49.57,9.71,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/54-weitere-covid-19-faelle-in-baden-wuerttemberg/
+726,03/07/2020,Baden-Württemberg,Main-Tauber-Kreis,49.57,9.71,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/54-weitere-covid-19-faelle-in-baden-wuerttemberg/
+727,03/07/2020,Baden-Württemberg,Main-Tauber-Kreis,49.57,9.71,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/54-weitere-covid-19-faelle-in-baden-wuerttemberg/
+728,03/07/2020,Baden-Württemberg,Main-Tauber-Kreis,49.57,9.71,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/54-weitere-covid-19-faelle-in-baden-wuerttemberg/
+729,03/07/2020,Baden-Württemberg,Main-Tauber-Kreis,49.57,9.71,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/54-weitere-covid-19-faelle-in-baden-wuerttemberg/
+730,03/07/2020,Baden-Württemberg,Main-Tauber-Kreis,49.57,9.71,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/54-weitere-covid-19-faelle-in-baden-wuerttemberg/
+731,03/07/2020,Baden-Württemberg,Main-Tauber-Kreis,49.57,9.71,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/54-weitere-covid-19-faelle-in-baden-wuerttemberg/
+732,03/07/2020,Baden-Württemberg,Main-Tauber-Kreis,49.57,9.71,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/54-weitere-covid-19-faelle-in-baden-wuerttemberg/
+733,03/07/2020,Baden-Württemberg,Main-Tauber-Kreis,49.57,9.71,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/54-weitere-covid-19-faelle-in-baden-wuerttemberg/
+734,03/07/2020,Baden-Württemberg,Main-Tauber-Kreis,49.57,9.71,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/54-weitere-covid-19-faelle-in-baden-wuerttemberg/
+735,03/07/2020,Baden-Württemberg,Main-Tauber-Kreis,49.57,9.71,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/54-weitere-covid-19-faelle-in-baden-wuerttemberg/
+736,03/07/2020,Baden-Württemberg,Main-Tauber-Kreis,49.57,9.71,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/54-weitere-covid-19-faelle-in-baden-wuerttemberg/
+737,03/07/2020,Baden-Württemberg,Main-Tauber-Kreis,49.57,9.71,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/54-weitere-covid-19-faelle-in-baden-wuerttemberg/
+738,03/07/2020,Baden-Württemberg,Main-Tauber-Kreis,49.57,9.71,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/54-weitere-covid-19-faelle-in-baden-wuerttemberg/
+739,03/07/2020,Baden-Württemberg,Main-Tauber-Kreis,49.57,9.71,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/54-weitere-covid-19-faelle-in-baden-wuerttemberg/
+740,03/07/2020,Baden-Württemberg,Main-Tauber-Kreis,49.57,9.71,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/54-weitere-covid-19-faelle-in-baden-wuerttemberg/
+741,03/07/2020,Baden-Württemberg,Main-Tauber-Kreis,49.57,9.71,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/54-weitere-covid-19-faelle-in-baden-wuerttemberg/
+742,03/07/2020,North Rhine-Westphalia,Aachen (district),50.75,6.25,coming soon
+743,03/07/2020,North Rhine-Westphalia,Aachen (district),50.75,6.25,coming soon
+744,03/07/2020,North Rhine-Westphalia,Cologne,50.936389,6.952778,coming soon
+745,03/07/2020,North Rhine-Westphalia,Mönchengladbach,51.2,6.433333,coming soon
+746,03/07/2020,North Rhine-Westphalia,Mönchengladbach,51.2,6.433333,coming soon
+747,03/07/2020,North Rhine-Westphalia,Bonn,50.733333,7.1,coming soon
+748,03/07/2020,North Rhine-Westphalia,Coesfeld (district),51.866667,7.383333,coming soon
+749,03/07/2020,North Rhine-Westphalia,Warendorf (district),51.92,7.92,coming soon
+750,03/07/2020,Berlin,Pankow,52.566667,13.4,https://www.berlin.de/sen/gpg/service/presse/2020/pressemitteilung.904142.php
+751,03/07/2020,Berlin,Tempelhof-Schöneberg,52.466667,13.383333,https://www.berlin.de/sen/gpg/service/presse/2020/pressemitteilung.904142.php
+752,03/07/2020,Berlin,Mitte,52.516667,13.366667,https://www.berlin.de/sen/gpg/service/presse/2020/pressemitteilung.904142.php
+753,03/07/2020,Berlin,Mitte,52.516667,13.366667,https://www.berlin.de/sen/gpg/service/presse/2020/pressemitteilung.904142.php
+754,03/07/2020,Berlin,Mitte,52.516667,13.366667,https://www.berlin.de/sen/gpg/service/presse/2020/pressemitteilung.904142.php
+755,03/07/2020,Berlin,Charlottenburg-Wilmersdorf,52.5,13.283333,https://www.berlin.de/sen/gpg/service/presse/2020/pressemitteilung.904142.php
+756,03/07/2020,Berlin,Neuköln,52.483333,13.45,https://www.berlin.de/sen/gpg/service/presse/2020/pressemitteilung.904142.php
+757,03/07/2020,Berlin,Mitte,52.516667,13.366667,https://www.berlin.de/sen/gpg/service/presse/2020/pressemitteilung.904142.php
+758,03/07/2020,Berlin,Tempelhof-Schöneberg,52.466667,13.383333,https://www.berlin.de/sen/gpg/service/presse/2020/pressemitteilung.904142.php
+759,03/07/2020,Baden-Württemberg,Heilbronn (district),49.16,9.25,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/54-weitere-covid-19-faelle-in-baden-wuerttemberg/
+760,03/07/2020,Baden-Württemberg,Heilbronn (district),49.16,9.25,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/54-weitere-covid-19-faelle-in-baden-wuerttemberg/
+761,03/07/2020,Baden-Württemberg,Heilbronn (district),49.16,9.25,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/54-weitere-covid-19-faelle-in-baden-wuerttemberg/
+762,03/07/2020,Baden-Württemberg,Heilbronn (district),49.16,9.25,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/54-weitere-covid-19-faelle-in-baden-wuerttemberg/
+763,03/07/2020,Baden-Württemberg,Heilbronn (district),49.16,9.25,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/54-weitere-covid-19-faelle-in-baden-wuerttemberg/
+764,03/07/2020,Baden-Württemberg,Heilbronn (district),49.16,9.25,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/54-weitere-covid-19-faelle-in-baden-wuerttemberg/
+765,03/07/2020,Baden-Württemberg,Esslingen (district),48.69,9.32,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/54-weitere-covid-19-faelle-in-baden-wuerttemberg/
+766,03/07/2020,Baden-Württemberg,Esslingen (district),48.69,9.32,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/54-weitere-covid-19-faelle-in-baden-wuerttemberg/
+767,03/07/2020,Baden-Württemberg,Emmendingen (district),48.1,7.8,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/54-weitere-covid-19-faelle-in-baden-wuerttemberg/
+768,03/07/2020,Baden-Württemberg,Emmendingen (district),48.1,7.8,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/54-weitere-covid-19-faelle-in-baden-wuerttemberg/
+769,03/07/2020,Baden-Württemberg,Heidenheim (district),48.64,10.12,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/54-weitere-covid-19-faelle-in-baden-wuerttemberg/
+770,03/07/2020,Baden-Württemberg,Heidenheim (district),48.64,10.12,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/54-weitere-covid-19-faelle-in-baden-wuerttemberg/
+771,03/07/2020,Baden-Württemberg,Breisgau-Hochschwarzwald,47.95,7.85,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/54-weitere-covid-19-faelle-in-baden-wuerttemberg/
+772,03/07/2020,Baden-Württemberg,Göppingen (district),48.7,9.65,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/54-weitere-covid-19-faelle-in-baden-wuerttemberg/
+773,03/07/2020,Baden-Württemberg,Konstanz (district),47.816667,8.883333,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/54-weitere-covid-19-faelle-in-baden-wuerttemberg/
+774,03/07/2020,Baden-Württemberg,Biberach (district),48.08,9.83,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/54-weitere-covid-19-faelle-in-baden-wuerttemberg/
+775,03/07/2020,Baden-Württemberg,Ortenaukreis,48.416667,8,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/54-weitere-covid-19-faelle-in-baden-wuerttemberg/
+776,03/07/2020,Baden-Württemberg,Ortenaukreis,48.416667,8,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/54-weitere-covid-19-faelle-in-baden-wuerttemberg/
+777,03/07/2020,Baden-Württemberg,Ortenaukreis,48.416667,8,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/54-weitere-covid-19-faelle-in-baden-wuerttemberg/
+778,03/07/2020,Baden-Württemberg,Ortenaukreis,48.416667,8,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/54-weitere-covid-19-faelle-in-baden-wuerttemberg/
+779,03/07/2020,Baden-Württemberg,Rhein-Neckar-Kreis,49.366667,8.733333,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/54-weitere-covid-19-faelle-in-baden-wuerttemberg/
+780,03/07/2020,Baden-Württemberg,Rhein-Neckar-Kreis,49.366667,8.733333,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/54-weitere-covid-19-faelle-in-baden-wuerttemberg/
+781,03/07/2020,Baden-Württemberg,Rhein-Neckar-Kreis,49.366667,8.733333,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/54-weitere-covid-19-faelle-in-baden-wuerttemberg/
+782,03/07/2020,Baden-Württemberg,Schwarzwald-Baar-Kreis,48.016667,8.433333,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/54-weitere-covid-19-faelle-in-baden-wuerttemberg/
+783,03/07/2020,Baden-Württemberg,Enzkreis,48.9,8.75,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/54-weitere-covid-19-faelle-in-baden-wuerttemberg/
+784,03/07/2020,Baden-Württemberg,Stuttgart,48.783333,9.183333,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/54-weitere-covid-19-faelle-in-baden-wuerttemberg/
+785,03/07/2020,Baden-Württemberg,Stuttgart,48.783333,9.183333,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/54-weitere-covid-19-faelle-in-baden-wuerttemberg/
+786,03/07/2020,Baden-Württemberg,Stuttgart,48.783333,9.183333,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/54-weitere-covid-19-faelle-in-baden-wuerttemberg/
+787,03/07/2020,Baden-Württemberg,Stuttgart,48.783333,9.183333,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/54-weitere-covid-19-faelle-in-baden-wuerttemberg/
+788,03/07/2020,Baden-Württemberg,Heidelberg,49.416667,8.716667,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/54-weitere-covid-19-faelle-in-baden-wuerttemberg/
+789,03/07/2020,Baden-Württemberg,Heidelberg,49.416667,8.716667,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/54-weitere-covid-19-faelle-in-baden-wuerttemberg/
+790,03/07/2020,Baden-Württemberg,Heidelberg,49.416667,8.716667,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/54-weitere-covid-19-faelle-in-baden-wuerttemberg/
+791,03/07/2020,Baden-Württemberg,Mannheim,49.488889,8.469167,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/54-weitere-covid-19-faelle-in-baden-wuerttemberg/
+792,03/07/2020,Saxony,Leipzig,51.333333,12.383333,https://www.medienservice.sachsen.de/medien/news/234811
+793,03/07/2020,Saxony,Bautzen (district),51.283333,14.266667,https://www.medienservice.sachsen.de/medien/news/234811
+794,03/07/2020,Bavaria,Nuremberg,49.45,11.083333,https://www.stmgp.bayern.de/presse/korrigierte-fassung-bayerisches-gesundheitsministerium-31-weitere-coronavirus-faelle-in/
+795,03/07/2020,Bavaria,Nürnberger Land,49.5,11.366667,https://www.stmgp.bayern.de/presse/korrigierte-fassung-bayerisches-gesundheitsministerium-31-weitere-coronavirus-faelle-in/
+796,03/07/2020,Bavaria,Ebersberg (district),48.08,11.92,https://www.stmgp.bayern.de/presse/korrigierte-fassung-bayerisches-gesundheitsministerium-31-weitere-coronavirus-faelle-in/
+797,03/07/2020,Bavaria,Ebersberg (district),48.08,11.92,https://www.stmgp.bayern.de/presse/korrigierte-fassung-bayerisches-gesundheitsministerium-31-weitere-coronavirus-faelle-in/
+798,03/07/2020,Bavaria,Ebersberg (district),48.08,11.92,https://www.stmgp.bayern.de/presse/korrigierte-fassung-bayerisches-gesundheitsministerium-31-weitere-coronavirus-faelle-in/
+799,03/07/2020,Bavaria,Erding (district),48.33,11.92,https://www.stmgp.bayern.de/presse/korrigierte-fassung-bayerisches-gesundheitsministerium-31-weitere-coronavirus-faelle-in/
+800,03/07/2020,Bavaria,Freising (district),48.5,11.83,https://www.stmgp.bayern.de/presse/korrigierte-fassung-bayerisches-gesundheitsministerium-31-weitere-coronavirus-faelle-in/
+801,03/07/2020,Bavaria,Freising (district),48.5,11.83,https://www.stmgp.bayern.de/presse/korrigierte-fassung-bayerisches-gesundheitsministerium-31-weitere-coronavirus-faelle-in/
+802,03/07/2020,Bavaria,Miesbach (district),47.75,11.83,https://www.stmgp.bayern.de/presse/korrigierte-fassung-bayerisches-gesundheitsministerium-31-weitere-coronavirus-faelle-in/
+803,03/07/2020,Bavaria,Munich (district),48,11.67,https://www.stmgp.bayern.de/presse/korrigierte-fassung-bayerisches-gesundheitsministerium-31-weitere-coronavirus-faelle-in/
+804,03/07/2020,Bavaria,Munich (district),48,11.67,https://www.stmgp.bayern.de/presse/korrigierte-fassung-bayerisches-gesundheitsministerium-31-weitere-coronavirus-faelle-in/
+805,03/07/2020,Bavaria,Munich (district),48,11.67,https://www.stmgp.bayern.de/presse/korrigierte-fassung-bayerisches-gesundheitsministerium-31-weitere-coronavirus-faelle-in/
+806,03/07/2020,Bavaria,Munich (district),48,11.67,https://www.stmgp.bayern.de/presse/korrigierte-fassung-bayerisches-gesundheitsministerium-31-weitere-coronavirus-faelle-in/
+807,03/07/2020,Bavaria,Starnberg (district),48,11.33,https://www.stmgp.bayern.de/presse/korrigierte-fassung-bayerisches-gesundheitsministerium-31-weitere-coronavirus-faelle-in/
+808,03/07/2020,Bavaria,Starnberg (district),48,11.33,https://www.stmgp.bayern.de/presse/korrigierte-fassung-bayerisches-gesundheitsministerium-31-weitere-coronavirus-faelle-in/
+809,03/07/2020,Bavaria,Weilheim-Schongau,47.83,11,https://www.stmgp.bayern.de/presse/korrigierte-fassung-bayerisches-gesundheitsministerium-31-weitere-coronavirus-faelle-in/
+810,03/07/2020,Bavaria,Weilheim-Schongau,47.83,11,https://www.stmgp.bayern.de/presse/korrigierte-fassung-bayerisches-gesundheitsministerium-31-weitere-coronavirus-faelle-in/
+811,03/07/2020,Bavaria,Ingolstadt,48.766667,11.433333,https://www.stmgp.bayern.de/presse/korrigierte-fassung-bayerisches-gesundheitsministerium-31-weitere-coronavirus-faelle-in/
+812,03/07/2020,Bavaria,Amberg-Sulzbach,49.5,11.75,https://www.stmgp.bayern.de/presse/korrigierte-fassung-bayerisches-gesundheitsministerium-31-weitere-coronavirus-faelle-in/
+813,03/07/2020,Bavaria,Amberg-Sulzbach,49.5,11.75,https://www.stmgp.bayern.de/presse/korrigierte-fassung-bayerisches-gesundheitsministerium-31-weitere-coronavirus-faelle-in/
+814,03/07/2020,Bavaria,Cham (district),49.25,12.67,https://www.stmgp.bayern.de/presse/korrigierte-fassung-bayerisches-gesundheitsministerium-31-weitere-coronavirus-faelle-in/
+815,03/07/2020,Bavaria,Cham (district),49.25,12.67,https://www.stmgp.bayern.de/presse/korrigierte-fassung-bayerisches-gesundheitsministerium-31-weitere-coronavirus-faelle-in/
+816,03/07/2020,Bavaria,Regensburg (district),49.08,12.17,https://www.stmgp.bayern.de/presse/korrigierte-fassung-bayerisches-gesundheitsministerium-31-weitere-coronavirus-faelle-in/
+817,03/07/2020,Bavaria,Donau-Ries,48.83,10.67,https://www.stmgp.bayern.de/presse/korrigierte-fassung-bayerisches-gesundheitsministerium-31-weitere-coronavirus-faelle-in/
+818,03/07/2020,Bavaria,Donau-Ries,48.83,10.67,https://www.stmgp.bayern.de/presse/korrigierte-fassung-bayerisches-gesundheitsministerium-31-weitere-coronavirus-faelle-in/
+819,03/07/2020,Bavaria,Lindau (district),47.58,9.75,https://www.stmgp.bayern.de/presse/korrigierte-fassung-bayerisches-gesundheitsministerium-31-weitere-coronavirus-faelle-in/
+820,03/07/2020,Bavaria,Lindau (district),47.58,9.75,https://www.stmgp.bayern.de/presse/korrigierte-fassung-bayerisches-gesundheitsministerium-31-weitere-coronavirus-faelle-in/
+821,03/07/2020,Bavaria,Augsburg (district),48.02,10.83,https://www.stmgp.bayern.de/presse/korrigierte-fassung-bayerisches-gesundheitsministerium-31-weitere-coronavirus-faelle-in/
+822,03/07/2020,Bavaria,Hof (district),50.25,11.83,https://www.stmgp.bayern.de/presse/korrigierte-fassung-bayerisches-gesundheitsministerium-31-weitere-coronavirus-faelle-in/
+823,03/07/2020,Bavaria,Würzburg (district),49.66,10,https://www.stmgp.bayern.de/presse/korrigierte-fassung-bayerisches-gesundheitsministerium-31-weitere-coronavirus-faelle-in/
+824,03/07/2020,Bavaria,Würzburg (district),49.66,10,https://www.stmgp.bayern.de/presse/korrigierte-fassung-bayerisches-gesundheitsministerium-31-weitere-coronavirus-faelle-in/
+825,03/07/2020,Schleswig-Holstein,Lübeck,53.869722,10.686389,coming soon
+826,03/07/2020,Baden-Württemberg,Rastatt (district),48.8,8.27,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/12-weitere-covid-19-faelle-in-baden-wuerttemberg/
+827,03/07/2020,Baden-Württemberg,Rastatt (district),48.8,8.27,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/12-weitere-covid-19-faelle-in-baden-wuerttemberg/
+828,03/07/2020,Baden-Württemberg,Ludwigsburg (district),48.9,9.2,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/12-weitere-covid-19-faelle-in-baden-wuerttemberg/
+829,03/07/2020,Baden-Württemberg,Ludwigsburg (district),48.9,9.2,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/12-weitere-covid-19-faelle-in-baden-wuerttemberg/
+830,03/07/2020,Baden-Württemberg,Biberach (district),48.08,9.83,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/12-weitere-covid-19-faelle-in-baden-wuerttemberg/
+831,03/07/2020,Baden-Württemberg,Alb-Donau-Kreis,48.4,9.85,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/12-weitere-covid-19-faelle-in-baden-wuerttemberg/
+832,03/07/2020,Baden-Württemberg,Karlsruhe (district),49.08,8.58,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/12-weitere-covid-19-faelle-in-baden-wuerttemberg/
+833,03/07/2020,Baden-Württemberg,Karlsruhe (district),49.08,8.58,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/12-weitere-covid-19-faelle-in-baden-wuerttemberg/
+834,03/07/2020,Baden-Württemberg,Karlsruhe (district),49.08,8.58,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/12-weitere-covid-19-faelle-in-baden-wuerttemberg/
+835,03/07/2020,Baden-Württemberg,Karlsruhe (district),49.08,8.58,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/12-weitere-covid-19-faelle-in-baden-wuerttemberg/
+836,03/07/2020,Baden-Württemberg,Mannheim,49.488889,8.469167,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/12-weitere-covid-19-faelle-in-baden-wuerttemberg/
+837,03/07/2020,Baden-Württemberg,Baden-Baden,48.762778,8.240833,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/12-weitere-covid-19-faelle-in-baden-wuerttemberg/
+838,03/07/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.facebook.com/kreisheinsberg/videos/883113432126395/
+839,03/07/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.facebook.com/kreisheinsberg/videos/883113432126395/
+840,03/07/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.facebook.com/kreisheinsberg/videos/883113432126395/
+841,03/07/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.facebook.com/kreisheinsberg/videos/883113432126395/
+842,03/07/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.facebook.com/kreisheinsberg/videos/883113432126395/
+843,03/07/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.facebook.com/kreisheinsberg/videos/883113432126395/
+844,03/07/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.facebook.com/kreisheinsberg/videos/883113432126395/
+845,03/07/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.facebook.com/kreisheinsberg/videos/883113432126395/
+846,03/07/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.facebook.com/kreisheinsberg/videos/883113432126395/
+847,03/07/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.facebook.com/kreisheinsberg/videos/883113432126395/
+848,03/07/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.facebook.com/kreisheinsberg/videos/883113432126395/
+849,03/07/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.facebook.com/kreisheinsberg/videos/883113432126395/
+850,03/07/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.facebook.com/kreisheinsberg/videos/883113432126395/
+851,03/07/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.facebook.com/kreisheinsberg/videos/883113432126395/
+852,03/07/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.facebook.com/kreisheinsberg/videos/883113432126395/
+853,03/07/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.facebook.com/kreisheinsberg/videos/883113432126395/
+854,03/07/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.facebook.com/kreisheinsberg/videos/883113432126395/
+855,03/07/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.facebook.com/kreisheinsberg/videos/883113432126395/
+856,03/07/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.facebook.com/kreisheinsberg/videos/883113432126395/
+857,03/07/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.facebook.com/kreisheinsberg/videos/883113432126395/
+858,03/07/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.facebook.com/kreisheinsberg/videos/883113432126395/
+859,03/07/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.facebook.com/kreisheinsberg/videos/883113432126395/
+860,03/07/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.facebook.com/kreisheinsberg/videos/883113432126395/
+861,03/07/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.facebook.com/kreisheinsberg/videos/883113432126395/
+862,03/07/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.facebook.com/kreisheinsberg/videos/883113432126395/
+863,03/07/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.facebook.com/kreisheinsberg/videos/883113432126395/
+864,03/07/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.facebook.com/kreisheinsberg/videos/883113432126395/
+865,03/07/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.facebook.com/kreisheinsberg/videos/883113432126395/
+866,03/07/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.facebook.com/kreisheinsberg/videos/883113432126395/
+867,03/07/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.facebook.com/kreisheinsberg/videos/883113432126395/
+868,03/07/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.facebook.com/kreisheinsberg/videos/883113432126395/
+869,03/07/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.facebook.com/kreisheinsberg/videos/883113432126395/
+870,03/07/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.facebook.com/kreisheinsberg/videos/883113432126395/
+871,03/07/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.facebook.com/kreisheinsberg/videos/883113432126395/
+872,03/07/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.facebook.com/kreisheinsberg/videos/883113432126395/
+873,03/07/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.facebook.com/kreisheinsberg/videos/883113432126395/
+874,03/07/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.facebook.com/kreisheinsberg/videos/883113432126395/
+875,03/07/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.facebook.com/kreisheinsberg/videos/883113432126395/
+876,03/07/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.facebook.com/kreisheinsberg/videos/883113432126395/
+877,03/07/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.facebook.com/kreisheinsberg/videos/883113432126395/
+878,03/07/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.facebook.com/kreisheinsberg/videos/883113432126395/
+879,03/07/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.facebook.com/kreisheinsberg/videos/883113432126395/
+880,03/07/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.facebook.com/kreisheinsberg/videos/883113432126395/
+881,03/07/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.facebook.com/kreisheinsberg/videos/883113432126395/
+882,03/07/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.facebook.com/kreisheinsberg/videos/883113432126395/
+883,03/07/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.facebook.com/kreisheinsberg/videos/883113432126395/
+884,03/07/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.facebook.com/kreisheinsberg/videos/883113432126395/
+885,03/07/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.facebook.com/kreisheinsberg/videos/883113432126395/
+886,03/07/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.facebook.com/kreisheinsberg/videos/883113432126395/
+887,03/07/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.facebook.com/kreisheinsberg/videos/883113432126395/
+888,03/07/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.facebook.com/kreisheinsberg/videos/883113432126395/
+889,03/07/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.facebook.com/kreisheinsberg/videos/883113432126395/
+890,03/07/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.facebook.com/kreisheinsberg/videos/883113432126395/
+891,03/07/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.facebook.com/kreisheinsberg/videos/883113432126395/
+892,03/07/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.facebook.com/kreisheinsberg/videos/883113432126395/
+893,03/07/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.facebook.com/kreisheinsberg/videos/883113432126395/
+894,03/07/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.facebook.com/kreisheinsberg/videos/883113432126395/
+895,03/07/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.facebook.com/kreisheinsberg/videos/883113432126395/
+896,03/07/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.facebook.com/kreisheinsberg/videos/883113432126395/
+897,03/07/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.facebook.com/kreisheinsberg/videos/883113432126395/
+898,03/07/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.facebook.com/kreisheinsberg/videos/883113432126395/
+899,03/07/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.facebook.com/kreisheinsberg/videos/883113432126395/
+900,03/07/2020,North Rhine-Westphalia,Aachen (district),50.75,6.25,http://www.aachen.de/DE/stadt_buerger/notfall_informationen/corona/aktuelles/index.html
+901,03/07/2020,North Rhine-Westphalia,Aachen (district),50.75,6.25,http://www.aachen.de/DE/stadt_buerger/notfall_informationen/corona/aktuelles/index.html
+902,03/07/2020,North Rhine-Westphalia,Aachen (district),50.75,6.25,http://www.aachen.de/DE/stadt_buerger/notfall_informationen/corona/aktuelles/index.html
+903,03/07/2020,North Rhine-Westphalia,Aachen (district),50.75,6.25,http://www.aachen.de/DE/stadt_buerger/notfall_informationen/corona/aktuelles/index.html
+904,03/07/2020,North Rhine-Westphalia,Bochum,51.481944,7.215833,https://www.bochum.de/Pressemeldungen/7-Maerz-2020/Zentrale-Corona-Diagnostikstelle-eingerichtet-Dritter-positiver-Fall-bestaetigt
+905,03/07/2020,North Rhine-Westphalia,Mettmann (district),51.2585,7,"https://www.kreis-mettmann.de/Kreis-Politik/Presse-Kommunikation/Pressemitteilungen/Corona-Virus-Insgesamt-nun-sechs-Erkrankungsfälle-in-Erkrath.php?object=tx,2.1&ModID=7&FID=2023.5543.1&NavID=2023.541&La=1"
+906,03/07/2020,North Rhine-Westphalia,Mettmann (district),51.2585,7,"https://www.kreis-mettmann.de/Kreis-Politik/Presse-Kommunikation/Pressemitteilungen/Corona-Virus-Insgesamt-nun-sechs-Erkrankungsfälle-in-Erkrath.php?object=tx,2.1&ModID=7&FID=2023.5543.1&NavID=2023.541&La=1"
+907,03/07/2020,North Rhine-Westphalia,Mettmann (district),51.2585,7,"https://www.kreis-mettmann.de/Kreis-Politik/Presse-Kommunikation/Pressemitteilungen/Corona-Virus-Insgesamt-nun-sechs-Erkrankungsfälle-in-Erkrath.php?object=tx,2.1&ModID=7&FID=2023.5543.1&NavID=2023.541&La=1"
+908,03/07/2020,North Rhine-Westphalia,Mettmann (district),51.2585,7,"https://www.kreis-mettmann.de/Kreis-Politik/Presse-Kommunikation/Pressemitteilungen/Corona-Virus-Insgesamt-nun-sechs-Erkrankungsfälle-in-Erkrath.php?object=tx,2.1&ModID=7&FID=2023.5543.1&NavID=2023.541&La=1"
+909,03/07/2020,North Rhine-Westphalia,Dortmund,51.516667,7.466667,https://www.dortmund.de/de/leben_in_dortmund/nachrichtenportal/alle_nachrichten/nachricht.jsp?nid=622746
+910,03/07/2020,North Rhine-Westphalia,Dortmund,51.516667,7.466667,https://www.dortmund.de/de/leben_in_dortmund/nachrichtenportal/alle_nachrichten/nachricht.jsp?nid=622746
+911,03/07/2020,North Rhine-Westphalia,Coesfeld (district),51.866667,7.383333,https://www.kreis-coesfeld.de/nachrichten-details.html?tx_news_pi1[news]=6359&tx_news_pi1[controller]=News&tx_news_pi1[action]=detail&cHash=b4ac0178890950f66aefdc982ee2093b
+912,03/07/2020,North Rhine-Westphalia,Coesfeld (district),51.866667,7.383333,https://www.kreis-coesfeld.de/nachrichten-details.html?tx_news_pi1[news]=6359&tx_news_pi1[controller]=News&tx_news_pi1[action]=detail&cHash=b4ac0178890950f66aefdc982ee2093b
+913,03/07/2020,North Rhine-Westphalia,Unna (district),51.58,7.67,https://www.kreis-unna.de/nachrichten/n/?tx_news_pi1[news]=14220&tx_news_pi1[controller]=News&tx_news_pi1[action]=detail&cHash=31b36b644c47f5bc4011e1a3e334e130
+914,03/07/2020,North Rhine-Westphalia,Unna (district),51.58,7.67,https://www.kreis-unna.de/nachrichten/n/?tx_news_pi1[news]=14220&tx_news_pi1[controller]=News&tx_news_pi1[action]=detail&cHash=31b36b644c47f5bc4011e1a3e334e130
+915,03/07/2020,North Rhine-Westphalia,Unna (district),51.58,7.67,https://www.kreis-unna.de/nachrichten/n/?tx_news_pi1[news]=14220&tx_news_pi1[controller]=News&tx_news_pi1[action]=detail&cHash=31b36b644c47f5bc4011e1a3e334e130
+916,03/07/2020,North Rhine-Westphalia,Minden-Lübbecke,52.399167,8.717778,"https://www.minden-luebbecke.de/Startseite/Aktuelles/Zwei-weitere-Verdachtsfälle-bestätigt.php?object=tx,2832.14&ModID=7&FID=2832.2954.1&NavID=2832.538&La=1"
+917,03/07/2020,North Rhine-Westphalia,Minden-Lübbecke,52.399167,8.717778,"https://www.minden-luebbecke.de/Startseite/Aktuelles/Zwei-weitere-Verdachtsfälle-bestätigt.php?object=tx,2832.14&ModID=7&FID=2832.2954.1&NavID=2832.538&La=1"
+918,03/08/2020,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte (district),53.5,13.083333,https://www.regierung-mv.de/Landesregierung/wm/Presse/?id=158323&processor=processor.sa.pressemitteilung
+919,03/08/2020,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte (district),53.5,13.083333,https://www.regierung-mv.de/Landesregierung/wm/Presse/?id=158323&processor=processor.sa.pressemitteilung
+920,03/08/2020,Rhineland-Palatinate,Bitburg-Prüm,50,6.42,https://msagd.rlp.de/de/service/presse/detail/news/News/detail/information-der-landesregierung-zum-aktuellen-stand-hinsichtlich-des-coronavirus-seit-gestern-sechs/
+921,03/08/2020,Rhineland-Palatinate,Neuwied (district),50.5,7.5,https://msagd.rlp.de/de/service/presse/detail/news/News/detail/information-der-landesregierung-zum-aktuellen-stand-hinsichtlich-des-coronavirus-seit-gestern-sechs/
+922,03/08/2020,Rhineland-Palatinate,Koblenz,50.359722,7.597778,https://msagd.rlp.de/de/service/presse/detail/news/News/detail/information-der-landesregierung-zum-aktuellen-stand-hinsichtlich-des-coronavirus-seit-gestern-sechs/
+923,03/08/2020,Rhineland-Palatinate,Koblenz,50.359722,7.597778,https://msagd.rlp.de/de/service/presse/detail/news/News/detail/information-der-landesregierung-zum-aktuellen-stand-hinsichtlich-des-coronavirus-seit-gestern-sechs/
+924,03/08/2020,Rhineland-Palatinate,Bad Dürkheim (district),49.5,8.17,https://msagd.rlp.de/de/service/presse/detail/news/News/detail/information-der-landesregierung-zum-aktuellen-stand-hinsichtlich-des-coronavirus-seit-gestern-sechs/
+925,03/08/2020,Rhineland-Palatinate,Bad Dürkheim (district),49.5,8.17,https://msagd.rlp.de/de/service/presse/detail/news/News/detail/information-der-landesregierung-zum-aktuellen-stand-hinsichtlich-des-coronavirus-seit-gestern-sechs/
+926,03/08/2020,North Rhine-Westphalia,Aachen (district),50.75,6.25,http://www.aachen.de/DE/stadt_buerger/notfall_informationen/corona/aktuelles/index.html
+927,03/08/2020,North Rhine-Westphalia,Aachen (district),50.75,6.25,http://www.aachen.de/DE/stadt_buerger/notfall_informationen/corona/aktuelles/index.html
+928,03/08/2020,North Rhine-Westphalia,Bielefeld,52.021111,8.534722,https://www.bielefeld.de/de/gs/covi/
+929,03/08/2020,North Rhine-Westphalia,Bielefeld,52.021111,8.534722,https://www.bielefeld.de/de/gs/covi/
+930,03/08/2020,North Rhine-Westphalia,Bonn,50.733333,7.1,coming soon
+931,03/08/2020,North Rhine-Westphalia,Bonn,50.733333,7.1,coming soon
+932,03/08/2020,North Rhine-Westphalia,Paderborn (district),51.71,8.74,coming soon
+933,03/08/2020,North Rhine-Westphalia,Remscheid,51.183333,7.2,https://remscheid.de/pressearchiv/meldungen-2020/03-maerz/146380100000143530.php#chapter146380100000143530-1015_sp_main_iterate_3_0
+934,03/08/2020,North Rhine-Westphalia,Rheinisch-Bergischer Kreis,51.016667,7.2,https://www.rbk-direkt.de/news/28807/vierter-bestaetigter-corona-fall-im-rheinisch-bergischen-kreis--mann-aus-wermelskirchen-positiv-getestet
+935,03/08/2020,North Rhine-Westphalia,Steinfurt (district),52.17,7.67,http://www.presse-service.de/data.aspx/static/1039075.html
+936,03/08/2020,North Rhine-Westphalia,Steinfurt (district),52.17,7.67,coming soon
+937,03/08/2020,North Rhine-Westphalia,Unna (district),51.58,7.67,coming soon
+938,03/08/2020,North Rhine-Westphalia,Unna (district),51.58,7.67,coming soon
+939,03/08/2020,North Rhine-Westphalia,Unna (district),51.58,7.67,coming soon
+940,03/08/2020,North Rhine-Westphalia,Unna (district),51.58,7.67,coming soon
+941,03/08/2020,North Rhine-Westphalia,Warendorf (district),51.92,7.92,coming soon
+942,03/08/2020,North Rhine-Westphalia,Cologne,50.936389,6.952778,https://www.koeln.de/koeln/nachrichten/lokales/coronavirus-in-koeln-der-aktuelle-stand_1144487.html
+943,03/08/2020,North Rhine-Westphalia,Cologne,50.936389,6.952778,https://www.koeln.de/koeln/nachrichten/lokales/coronavirus-in-koeln-der-aktuelle-stand_1144487.html
+944,03/08/2020,North Rhine-Westphalia,Cologne,50.936389,6.952778,https://www.koeln.de/koeln/nachrichten/lokales/coronavirus-in-koeln-der-aktuelle-stand_1144487.html
+945,03/08/2020,North Rhine-Westphalia,Cologne,50.936389,6.952778,https://www.koeln.de/koeln/nachrichten/lokales/coronavirus-in-koeln-der-aktuelle-stand_1144487.html
+946,03/08/2020,North Rhine-Westphalia,Cologne,50.936389,6.952778,https://www.koeln.de/koeln/nachrichten/lokales/coronavirus-in-koeln-der-aktuelle-stand_1144487.html
+947,03/08/2020,North Rhine-Westphalia,Cologne,50.936389,6.952778,https://www.koeln.de/koeln/nachrichten/lokales/coronavirus-in-koeln-der-aktuelle-stand_1144487.html
+948,03/08/2020,North Rhine-Westphalia,Cologne,50.936389,6.952778,https://www.koeln.de/koeln/nachrichten/lokales/coronavirus-in-koeln-der-aktuelle-stand_1144487.html
+949,03/08/2020,North Rhine-Westphalia,Cologne,50.936389,6.952778,https://www.koeln.de/koeln/nachrichten/lokales/coronavirus-in-koeln-der-aktuelle-stand_1144487.html
+950,03/08/2020,North Rhine-Westphalia,Cologne,50.936389,6.952778,https://www.koeln.de/koeln/nachrichten/lokales/coronavirus-in-koeln-der-aktuelle-stand_1144487.html
+951,03/08/2020,North Rhine-Westphalia,Cologne,50.936389,6.952778,https://www.koeln.de/koeln/nachrichten/lokales/coronavirus-in-koeln-der-aktuelle-stand_1144487.html
+952,03/08/2020,Hamburg,Hamburg,53.565278,10.001389,https://www.hamburg.de/bgv/pressemeldungen/13685686/2020-03-08-bgv-coronavirus-aktuell/
+953,03/08/2020,Hamburg,Hamburg,53.565278,10.001389,https://www.hamburg.de/bgv/pressemeldungen/13685686/2020-03-08-bgv-coronavirus-aktuell/
+954,03/08/2020,Hamburg,Hamburg,53.565278,10.001389,https://www.hamburg.de/bgv/pressemeldungen/13685686/2020-03-08-bgv-coronavirus-aktuell/
+955,03/08/2020,Hamburg,Hamburg,53.565278,10.001389,https://www.hamburg.de/bgv/pressemeldungen/13685686/2020-03-08-bgv-coronavirus-aktuell/
+956,03/08/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.facebook.com/kreisheinsberg/videos/883113432126395/
+957,03/08/2020,Saxony,Dresden,51.033333,13.733333,https://www.medienservice.sachsen.de/medien/news/234831
+958,03/08/2020,Saxony,Dresden,51.033333,13.733333,https://www.medienservice.sachsen.de/medien/news/234831
+959,03/08/2020,Saxony,Dresden,51.033333,13.733333,https://www.medienservice.sachsen.de/medien/news/234831
+960,03/08/2020,Berlin,Mitte,52.516667,13.366667,https://www.berlin.de/sen/gpg/service/presse/2020/pressemitteilung.904147.php
+961,03/08/2020,Berlin,Tempelhof-Schöneberg,52.466667,13.383333,https://www.berlin.de/sen/gpg/service/presse/2020/pressemitteilung.904147.php
+962,03/08/2020,Berlin,Steglitz-Zehlendorf,52.433333,13.25,https://www.berlin.de/sen/gpg/service/presse/2020/pressemitteilung.904147.php
+963,03/08/2020,Berlin,Charlottenburg-Wilmersdorf,52.5,13.283333,https://www.berlin.de/sen/gpg/service/presse/2020/pressemitteilung.904147.php
+964,03/08/2020,Berlin,Steglitz-Zehlendorf,52.433333,13.25,https://www.berlin.de/sen/gpg/service/presse/2020/pressemitteilung.904147.php
+965,03/08/2020,Berlin,Charlottenburg-Wilmersdorf,52.5,13.283333,https://www.berlin.de/sen/gpg/service/presse/2020/pressemitteilung.904147.php
+966,03/08/2020,Berlin,Charlottenburg-Wilmersdorf,52.5,13.283333,https://www.berlin.de/sen/gpg/service/presse/2020/pressemitteilung.904147.php
+967,03/08/2020,Berlin,Pankow,52.566667,13.4,https://www.berlin.de/sen/gpg/service/presse/2020/pressemitteilung.904147.php
+968,03/08/2020,Berlin,Charlottenburg-Wilmersdorf,52.5,13.283333,https://www.berlin.de/sen/gpg/service/presse/2020/pressemitteilung.904147.php
+969,03/08/2020,Berlin,Friedrichshain-Kreuzberg,52.516667,13.45,https://www.berlin.de/sen/gpg/service/presse/2020/pressemitteilung.904147.php
+970,03/08/2020,Berlin,Charlottenburg-Wilmersdorf,52.5,13.283333,https://www.berlin.de/sen/gpg/service/presse/2020/pressemitteilung.904147.php
+971,03/08/2020,Berlin,Charlottenburg-Wilmersdorf,52.5,13.283333,https://www.berlin.de/sen/gpg/service/presse/2020/pressemitteilung.904147.php
+972,03/08/2020,Hesse,Offenbach (district),50.018236,8.785651,https://soziales.hessen.de/sites/default/files/media/2020_03_08_bulletin_coronavirus.pdf
+973,03/08/2020,Lower Saxony,Hildesheim (district),52.08,9.92,"https://www.landkreishildesheim.de/-Landkreis-Jetzt-auch-im-Landkreis-zwei-laborbestätigte-Coronafälle.php?object=tx,2829.5&ModID=7&mobile=off&FID=2829.3084.1"
+974,03/08/2020,Lower Saxony,Hildesheim (district),52.08,9.92,"https://www.landkreishildesheim.de/-Landkreis-Jetzt-auch-im-Landkreis-zwei-laborbestätigte-Coronafälle.php?object=tx,2829.5&ModID=7&mobile=off&FID=2829.3084.1"
