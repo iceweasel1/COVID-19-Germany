@@ -1,8 +1,8 @@
 No,Date,Federated state,District,Latitude,Longitude,Source
 1,01/27/2020,Bavaria,Starnberg (district),48,11.33,https://www.stmgp.bayern.de/presse/bestaetigter-coronavirus-fall-in-bayern-infektionsschutzmassnahmen-laufen/
-2,01/28/2020,Bavaria,N/A,N/A,N/A,https://www.stmgp.bayern.de/presse/drei-weitere-coronavirus-faelle-in-bayern-zusammenhang-mit-dem-ersten-fall-bayerns/
-3,01/28/2020,Bavaria,N/A,N/A,N/A,https://www.stmgp.bayern.de/presse/drei-weitere-coronavirus-faelle-in-bayern-zusammenhang-mit-dem-ersten-fall-bayerns/
-4,01/28/2020,Bavaria,N/A,N/A,N/A,https://www.stmgp.bayern.de/presse/drei-weitere-coronavirus-faelle-in-bayern-zusammenhang-mit-dem-ersten-fall-bayerns/
+2,01/28/2020,Bavaria,Starnberg (district),48,11.33,https://www.stmgp.bayern.de/presse/drei-weitere-coronavirus-faelle-in-bayern-zusammenhang-mit-dem-ersten-fall-bayerns/
+3,01/28/2020,Bavaria,Fürstenfeldbruck (district),48.17,11.17,https://www.stmgp.bayern.de/presse/drei-weitere-coronavirus-faelle-in-bayern-zusammenhang-mit-dem-ersten-fall-bayerns/
+4,01/28/2020,Bavaria,Munich,48.137222,11.575556,https://www.stmgp.bayern.de/presse/drei-weitere-coronavirus-faelle-in-bayern-zusammenhang-mit-dem-ersten-fall-bayerns/
 5,01/30/2020,Bavaria,Traunstein (district),47.83,12.58,https://www.stmgp.bayern.de/presse/aktuelle-informationen-zur-coronavirus-lage-in-bayern-bayerisches-gesundheitsministerium-1/
 6,01/31/2020,Bavaria,Traunstein (district),47.83,12.58,https://www.stmgp.bayern.de/presse/aktuelle-informationen-zur-coronavirus-lage-in-bayern-bayerisches-gesundheitsministerium-2/
 7,01/31/2020,Bavaria,Fürstenfeldbruck (district),48.17,11.17,https://www.stmgp.bayern.de/presse/aktuelle-informationen-zur-coronavirus-lage-in-bayern-bayerisches-gesundheitsministerium-4/
@@ -12,9 +12,9 @@ No,Date,Federated state,District,Latitude,Longitude,Source
 11,02/03/2020,Bavaria,Traunstein (district),47.83,12.58,https://www.stmgp.bayern.de/presse/aktuelle-informationen-zur-coronavirus-lage-in-bayern-bayerisches-gesundheitsministerium-9/
 12,02/03/2020,Bavaria,Munich (district),48,11.67,https://www.stmgp.bayern.de/presse/aktuelle-informationen-zur-coronavirus-lage-in-bayern-bayerisches-gesundheitsministerium-10/
 13,02/06/2020,Bavaria,Traunstein (district),47.83,12.58,https://www.stmgp.bayern.de/presse/aktuelle-informationen-zur-coronavirus-lage-in-bayern-bayerisches-gesundheitsministerium-13/
-14,02/07/2020,Bavaria,N/A,N/A,N/A,https://www.stmgp.bayern.de/presse/aktuelle-informationen-zur-coronavirus-lage-in-bayern-bayerisches-gesundheitsministerium-14/
-15,02/11/2020,Bavaria,N/A,N/A,N/A,https://www.stmgp.bayern.de/presse/aktuelle-informationen-zur-coronavirus-lage-in-bayern-bayerisches-gesundheitsministerium-15/
-16,02/11/2020,Bavaria,N/A,N/A,N/A,https://www.stmgp.bayern.de/presse/aktuelle-informationen-zur-coronavirus-lage-in-bayern-bayerisches-gesundheitsministerium-15/
+14,02/07/2020,Bavaria,Fürstenfeldbruck (district),48.17,11.17,https://www.stmgp.bayern.de/presse/aktuelle-informationen-zur-coronavirus-lage-in-bayern-bayerisches-gesundheitsministerium-14/
+15,02/11/2020,Bavaria,Starnberg (district),48,11.33,https://www.stmgp.bayern.de/presse/aktuelle-informationen-zur-coronavirus-lage-in-bayern-bayerisches-gesundheitsministerium-15/
+16,02/11/2020,Bavaria,Munich,48.137222,11.575556,https://www.stmgp.bayern.de/presse/aktuelle-informationen-zur-coronavirus-lage-in-bayern-bayerisches-gesundheitsministerium-15/
 17,02/25/2020,Baden-Württemberg,Göppingen (district),48.7,9.65,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/erste-bestaetigte-infektion-mit-dem-coronavirus-in-baden-wuerttemberg/
 18,02/25/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.mags.nrw/pressemitteilung/erster-bestaetigter-corona-fall-nordrhein-westfalen-nachgewiesen
 19,02/26/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.mags.nrw/pressemitteilung/drei-neue-corona-faelle-nordrhein-westfalen
@@ -29,7 +29,7 @@ No,Date,Federated state,District,Latitude,Longitude,Source
 28,02/27/2020,Baden-Württemberg,Breisgau-Hochschwarzwald,47.95,7.85,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/vier-weitere-bestaetigte-corona-faelle-in-baden-wuerttemberg/
 29,02/27/2020,Baden-Württemberg,Freiburg im Breisgau,47.983333,7.85,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/vier-weitere-bestaetigte-corona-faelle-in-baden-wuerttemberg/
 30,02/27/2020,Baden-Württemberg,Böblingen (district),48.7,9.01,https://sozialministerium.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/vier-weitere-bestaetigte-corona-faelle-in-baden-wuerttemberg/
-31,02/27/2020,Bavaria,Middle Franconia,49.326,10.8462,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-ein-neuer-coronavirus-fall-in-bayern/
+31,02/27/2020,Bavaria,Erlangen,49.583333,11.016667,https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-ein-neuer-coronavirus-fall-in-bayern/
 32,02/27/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.mags.nrw/pressemitteilung/14-neu-bestaetigte-corona-faelle-im-kreis-heinsberg
 33,02/27/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.mags.nrw/pressemitteilung/14-neu-bestaetigte-corona-faelle-im-kreis-heinsberg
 34,02/27/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.mags.nrw/pressemitteilung/14-neu-bestaetigte-corona-faelle-im-kreis-heinsberg
@@ -121,7 +121,7 @@ No,Date,Federated state,District,Latitude,Longitude,Source
 120,03/01/2020,North Rhine-Westphalia,Aachen,50.775556,6.083611,https://www.staedteregion-aachen.de/de/navigation/aemter/oeffentlichkeitsarbeit-s-13/aktuelles/pressemitteilungen/aktuelle-pressemitteilungen/coronavirus/
 121,03/01/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.staedteregion-aachen.de/de/navigation/aemter/oeffentlichkeitsarbeit-s-13/aktuelles/pressemitteilungen/aktuelle-pressemitteilungen/coronavirus/
 122,03/01/2020,North Rhine-Westphalia,Heinsberg,51.061,6.1081,https://www.staedteregion-aachen.de/de/navigation/aemter/oeffentlichkeitsarbeit-s-13/aktuelles/pressemitteilungen/aktuelle-pressemitteilungen/coronavirus/
-123,03/01/2020,Bavaria,Middle Franconia,49.326,10.8462,https://www.stmgp.bayern.de/presse/aktuelle-informationen-zur-coronavirus-lage-in-bayern-bayerisches-gesundheitsministerium-18/
+123,03/01/2020,Bavaria,Nuremberg,49.45,11.083333,https://www.stmgp.bayern.de/presse/aktuelle-informationen-zur-coronavirus-lage-in-bayern-bayerisches-gesundheitsministerium-18/
 124,03/01/2020,Bavaria,Freising (district),48.5,11.83,https://www.stmgp.bayern.de/presse/aktuelle-informationen-zur-coronavirus-lage-in-bayern-bayerisches-gesundheitsministerium-18/
 125,03/01/2020,Bavaria,Starnberg (district),48,11.33,https://www.stmgp.bayern.de/presse/aktuelle-informationen-zur-coronavirus-lage-in-bayern-bayerisches-gesundheitsministerium-18/
 126,03/01/2020,Bavaria,Ostallgäu,47.75,10.58,https://www.stmgp.bayern.de/presse/aktuelle-informationen-zur-coronavirus-lage-in-bayern-bayerisches-gesundheitsministerium-18/
@@ -1118,3 +1118,8 @@ No,Date,Federated state,District,Latitude,Longitude,Source
 1117,03/09/2020,Saarland,Merzig-Wadern,49.5,6.75,https://www.saarland.de/SID-C28544EC-77DB6062/59841_253967.htm
 1118,03/09/2020,Saarland,Saarpfalz-Kreis,49.25,7.25,https://www.saarland.de/SID-C28544EC-77DB6062/59841_253967.htm
 1119,03/09/2020,Thuringia,Erfurt,50.983333,11.033333,https://www.tmasgff.de/medienservice/artikel/bestaetigter-covid-19-fall-in-erfurt
+1120,03/09/2020,Hamburg,Hamburg,53.565278,10.001389,https://www.hamburg.de/bgv/pressemeldungen/13692384/2020-03-09-bgv-coronavirus-aktueller-stand/
+1121,03/09/2020,Hamburg,Hamburg,53.565278,10.001389,https://www.hamburg.de/bgv/pressemeldungen/13692384/2020-03-09-bgv-coronavirus-aktueller-stand/
+1122,03/09/2020,Hamburg,Hamburg,53.565278,10.001389,https://www.hamburg.de/bgv/pressemeldungen/13692384/2020-03-09-bgv-coronavirus-aktueller-stand/
+1123,03/09/2020,Hamburg,Hamburg,53.565278,10.001389,https://www.hamburg.de/bgv/pressemeldungen/13692384/2020-03-09-bgv-coronavirus-aktueller-stand/
+1124,03/09/2020,Hamburg,Hamburg,53.565278,10.001389,https://www.hamburg.de/bgv/pressemeldungen/13692384/2020-03-09-bgv-coronavirus-aktueller-stand/
